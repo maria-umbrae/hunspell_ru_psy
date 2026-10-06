@@ -224,3 +224,15 @@ SFX U   0    у            [^аеиоуыэюяёь]
 SFX U   0    а            [^аеиоуыэюяёь]
 SFX U   0    ым           [^аеиоуыэюяёь]
 SFX U   0    е            [^аеиоуыэюяёь]
+
+SFX Q Y 10
+SFX Q   й    я            й
+SFX Q   й    ю            й
+SFX Q   й    ем           й
+SFX Q   й    и            й
+SFX Q   й    и            й
+SFX Q   й    ев           й
+SFX Q   й    ям           й
+SFX Q   й    и            й
+SFX Q   й    ями          й
+SFX Q   й    ях           й
