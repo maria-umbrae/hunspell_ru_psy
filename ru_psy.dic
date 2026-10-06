@@ -1,15 +1,195 @@
-3820
+4795
 АА/C	po:abbr exp:атипичный аутизм
+АВП/C	po:abbr exp:антипсихотики второго поколения
+АД/C	po:abbr exp:артериальное давление
+АДН/C	po:abbr exp:активное диспансерное наблюдение
+АДП/C	po:abbr exp:атипичный детский психоз
+АИТ/C	po:abbr exp:аутоиммунный тиреоидит
+АКТГ/C	po:abbr exp:адренокортикотропный гормон
+АЛТ/C	po:abbr exp:аланинаминотрансфераза
+АПНЛ/C	po:abbr exp:амбулаторное принудительное наблюдение и лечение
+АПП/C	po:abbr exp:антипсихотики первого поколения
+АРВТ/C	po:abbr exp:антиретровирусная терапия
+АРЛ/C	po:abbr exp:антисоциальное расстройство личности
+АСТ/C	po:abbr exp:аспартатаминотрансфераза
+Альцгеймер/MC	st:Альцгеймер po:proper_noun
+Аспергер/MC	st:Аспергер po:proper_noun
+Ашаффенбург/MC	st:Ашаффенбург po:proper_noun
+БА/C	po:abbr exp:болезнь Альцгеймера
+БАР/C	po:abbr exp:биполярное аффективное расстройство
+БД/C	po:abbr exp:биполярная депрессия
+БДУ/C	po:abbr exp:рубрика «без дальнейшего уточнения»
+БП/C	po:abbr exp:болезнь Паркинсона
+БТ/C	po:abbr exp:быстрая транквилизация
+БЦ/C	po:abbr exp:брахицефал
+Бехтерев/MC	st:Бехтерев po:proper_noun
+Блейлер/MC	st:Блейлер po:proper_noun
+ВВЭ/C	po:abbr exp:военно-врачебная экспертиза
+ВИ/C	po:abbr exp:взвешенное изображение
+ВИЧ/C	po:abbr exp:вирус иммунодефицита человека
+ВЛОК/C	po:abbr exp:внутривенное лазерное облучение крови
+ВОЗ/C	po:abbr exp:Всемирная организация здравоохранения
+ВП/C	po:abbr exp:вызванные потенциалы
+ВПА/C	po:abbr exp:Всемирная психиатрическая ассоциация
+ВЭ/C	po:abbr exp:височная эпилепсия
+Векслер/MC	st:Векслер po:proper_noun
+Вернике/C	st:Вернике po:proper_noun
+ГАМК/C	po:abbr exp:γ-аминомасляная кислота
+ГГТ/C	po:abbr exp:γ-глютамилтрансфераза
+ГК/C	po:abbr exp:глюкокортикоид
+ГП/C	po:abbr exp:гиперпролактинемия
+ГСП/C	po:abbr exp:гиперсексуальное поведение
+Гайе/C	st:Гайе po:proper_noun
+Ганзер/MC	st:Ганзер po:proper_noun
+Ганнушкин/U	st:Ганнушкин po:proper_noun
+Гешвинд/MC	st:Гешвинд po:proper_noun
+ДБП/C	po:abbr exp:депрессия при болезни Паркинсона
+ДГЭА-С/C	po:abbr exp:дегидроэпиандростеронсульфат
+ДТЛ/C	po:abbr exp:деменция с тельцами Леви
+ДШ/C	po:abbr exp:детская шизофрения
+Даннинг/MC	st:Даннинг po:proper_noun
+Диоген/MC	st:Диоген po:proper_noun
+ЗНС/C	po:abbr exp:злокачественный нейролептический синдром
+ЗПР/C	po:abbr exp:задержка психического развития
+ИА/C	po:abbr exp:интернет-аддикция
+ИБС/C	po:abbr exp:ишемическая болезнь сердца
+ИМ/C	po:abbr exp:инфаркт миокарда
+ИМАО/C	po:abbr exp:ингибиторы моноаминоксидазы
+ИМТ/C	po:abbr exp:индекс массы тела
+ИП/C	po:abbr exp:инфантильный психоз
+ИРЛ/C	po:abbr exp:истерическое расстройство личности
+ИХЭ/C	po:abbr exp:ингибиторы холинэстеразы
+КПТ/C	po:abbr exp:когнитивно-поведенческая терапия
+КТ/C	po:abbr exp:компьютерная томография
+Кандинский/AC	st:Кандинский po:proper_noun
+Каннер/MC	st:Каннер po:proper_noun
+Капгра/C	st:Капгра po:proper_noun
+Кащенко/C	st:Кащенко po:proper_noun
+Клерамбо/C	st:Клерамбо po:proper_noun
+Клеффнер/MC	st:Клеффнер po:proper_noun
+Корсаков/MC	st:Корсаков po:proper_noun
+Котар/MC	st:Котар po:proper_noun
+Крейтцфельдт/MC	st:Крейтцфельдт po:proper_noun
+Крепелин/MC	st:Крепелин po:proper_noun
+Кречмер/MC	st:Кречмер po:proper_noun
+Крюгер/MC	st:Крюгер po:proper_noun
+ЛГ/C	po:abbr exp:лютеинизирующий гормон
+ЛПВП/C	po:abbr exp:липопротеины высокой плотности
+ЛПНП/C	po:abbr exp:липопротеины низкой плотности
+ЛС/C	po:abbr exp:лекарственное средство
+ЛТ/C	po:abbr exp:лазеротерапия
+ЛЭ/C	po:abbr exp:лейкоцитарная эластаза
+Ландау/C	st:Ландау po:proper_noun
+Леонгард/MC	st:Леонгард po:proper_noun
+Лэйнг/MC	st:Лэйнг po:proper_noun
+Люшер/MC	st:Люшер po:proper_noun
+М-ЭхоЭГ/C	po:abbr exp:ультразвуковая эхо-энцефалография
+МАО/C	po:abbr exp:моноаминоксидаза
+МДП/C	po:abbr exp:маниакально-депрессивный психоз
+МКБ-11/C	po:abbr exp:Международная классификация болезней 11-го пересмотра
+МР/C	po:abbr exp:магнитно-резонансный
+МРС/C	po:abbr exp:магнитно-резонансная спектроскопия
+МРТ/C	po:abbr exp:магнитно-резонансная томография
+МС/C	po:abbr exp:метаболический синдром
+МЭГ/C	po:abbr exp:магнитоэнцефалография
+Мюнхгаузен/MC	st:Мюнхгаузен po:proper_noun
+НГП/C	po:abbr exp:нейролептическая гиперпролактинемия
+НПН/C	po:abbr exp:нервно-психическая неустойчивость
+НРЛ/C	po:abbr exp:нарциссическое расстройство личности
+НСПВ/C	po:abbr exp:наркотические средства и психотропные вещества
+НЭД/C	po:abbr exp:нейроэндокринные дисфункции
+ОБМ/C	po:abbr exp:основной белок миелина
+ОКР/C	po:abbr exp:обсессивно-компульсивное расстройство
+ОНМК/C	po:abbr exp:острые нарушения мозгового кровообращения
+ООД/C	po:abbr exp:общественно опасные действия
+ОПР/C	po:abbr exp:органические психические расстройства
+ОФЭКТ/C	po:abbr exp:однофотонная эмиссионная компьютерная томография
+ОЦК/C	po:abbr exp:объём циркулирующей крови
+ОЦП/C	po:abbr exp:объём циркулирующей плазмы
+ПАВ/C	po:abbr exp:психоактивные вещества
+ПБ/C	po:abbr exp:психиатрическая больница
+ПЛ/C	po:abbr exp:принудительное лечение
+ПМДР/C	po:abbr exp:предменструальное дисфорическое расстройство
+ПММХ/C	po:abbr exp:принудительные меры медицинского характера
+ПМС/C	po:abbr exp:предменструальный синдром
+ППР/C	po:abbr exp:повлёкший психическое расстройство
+ПРЛ/C	po:abbr exp:пограничное расстройство личности;параноидное расстройство личности
+ПСР/C	po:abbr exp:психосоматические расстройства
+ПТСР/C	po:abbr exp:посттравматическое стрессовое расстройство
+ПФ/C	po:abbr exp:плазмаферез
+ПФТ/C	po:abbr exp:психофармакотерапия
+ПЦР/C	po:abbr exp:полимеразная цепная реакция
+ПЭТ/C	po:abbr exp:позитронно-эмиссионная томография
+РА/C	po:abbr exp:ревматоидный артрит
+РАС/C	po:abbr exp:расстройства аутистического спектра
+РДР/C	po:abbr exp:рекуррентное депрессивное расстройство
+РЗ/C	po:abbr exp:ревматические заболевания
+РКИ/C	po:abbr exp:рандомизированные контролируемые исследования
+РЛ/C	po:abbr exp:расстройство личности
+РНК/C	po:abbr exp:рибонуклеиновая кислота
+РШС/C	po:abbr exp:расстройства шизофренического спектра
+РЭГ/C	po:abbr exp:реоэнцефалография
+Роршах/MC	st:Роршах po:proper_noun
+СА/C	po:abbr exp:синдром Аспергера
+СВЧ/C	po:abbr exp:сверхвысокочастотный
+СГП/C	po:abbr exp:синдром гиперпролактинемии
+СД/C	po:abbr exp:сосудистая деменция
+СДВГ/C	po:abbr exp:синдром дефицита внимания и гиперактивности
+СИОЗС/C	po:abbr exp:селективные ингибиторы обратного захвата серотонина
+СИОЗСН/C	po:abbr exp:селективные ингибиторы обратного захвата серотонина и норадреналина
+СК/C	po:abbr exp:синдром Каннера
+СКВ/C	po:abbr exp:системная красная волчанка
+СКОЭ/C	po:abbr exp:средний корпускулярный объём эритроцита
+СП/C	po:abbr exp:судорожные пороги
+СПЭ/C	po:abbr exp:судебно-психиатрическая экспертиза
+СР/C	po:abbr exp:синдром Ретта
+СРК/C	po:abbr exp:синдром раздражённого кишечника
+ССР/C	po:abbr exp:социально-стрессовые расстройства
+СТГ/C	po:abbr exp:соматотропный гормон
+СФЖ/C	po:abbr exp:сексуальная формула женская
+СФМ/C	po:abbr exp:сексуальная формула мужская
+Сербский/AC	st:Сербский po:proper_noun
+Снежневский/AC	st:Снежневский po:proper_noun
+ТМС/C	po:abbr exp:транскраниальная магнитная стимуляция
+ТТГ/C	po:abbr exp:тиреотропный гормон
+ТЦА/C	po:abbr exp:трициклические антидепрессанты
+Туретт/MC	st:Туретт po:proper_noun
+Т₃/C	po:abbr exp:трийодтиронин
+Т₄/C	po:abbr exp:тироксин
+УДТ/C	po:abbr exp:углеводдефицитный трансферрин
+УМО/C	po:abbr exp:умственная отсталость
+УПП/C	po:abbr exp:уровень постоянного потенциала
+ФОС/C	po:abbr exp:фосфорорганические соединения
+ФСГ/C	po:abbr exp:фолликулостимулирующий гормон
+Франкл/MC	st:Франкл po:proper_noun
+ХОБЛ/C	po:abbr exp:хроническая обструктивная болезнь лёгких
+ЦАДАСИЛ/C	po:abbr exp:церебральная аутосомно-доминантная артериопатия с субкортикальными инфарктами и лейкоэнцефалопатией
+ЦНС/C	po:abbr exp:центральная нервная система
+ЧМТ/C	po:abbr exp:черепно-мозговая травма
+ШАР/C	po:abbr exp:шизоаффективное расстройство
+ШРЛ/C	po:abbr exp:шизоидное расстройство личности
+Шарко/C	st:Шарко po:proper_noun
+Шнайдер/MC	st:Шнайдер po:proper_noun
+ЭКГ/C	po:abbr exp:электрокардиограмма
+ЭМП/C	po:abbr exp:электромагнитное поле
+ЭПС/C	po:abbr exp:экстрапирамидная симптоматика
+ЭСТ/C	po:abbr exp:электросудорожная терапия
+ЭЭГ/C	po:abbr exp:электроэнцефалография, электроэнцефалограмма
+Эскироль/Z	st:Эскироль po:proper_noun
+ЭхоЭГ/C	po:abbr exp:эхоэнцефалография
+Юнг/MC	st:Юнг po:proper_noun
+Якоб/MC	st:Якоб po:proper_noun
+Ясперс/MC	st:Ясперс po:proper_noun
 абалиенация/I	po:noun
 абиотрофический/A	po:adjective
 абиотрофия/I	po:noun
 аблутомания/I	st:аблутомания po:noun
 абсанс/K	po:noun
+абсансный/A	po:adjective
 абсентизм/K	po:noun
 абузус/K	po:noun
 абулический/A	po:adjective
 авиафобия/I	po:noun
-АВП/C	po:abbr exp:антипсихотики второго поколения
 автоматизм/K	po:noun
 автономазия/I	po:noun
 автосимволизм/K	po:noun
@@ -21,23 +201,25 @@
 агипногнозия/I	po:noun
 агирия/I	po:noun
 агомелатин/K	po:noun
+агорафобический/A	po:adjective
 аграмматизм/K	po:noun
+аграмматический/A	po:adjective
 аграммафазия/I	st:аграммафазия po:noun
 аграфически	po:adverb
 агрипнический/A	po:adjective
 агрипния/I	po:noun
-АД/C	po:abbr exp:артериальное давление
+агрипнофобический/A	po:adjective
 адвентиция/I	po:noun
 адверсивный/A	po:adjective
 адгезивный/A	po:adjective
+аддиктивный/A	po:adjective
+аддикция/I	po:noun
 адиадохокинез/K	po:noun
 адиназолам/K	po:noun
 адинамический/A	po:adjective
 адипозалгия/I	po:noun
 адипонектин/K	po:noun
 адипсия/I	po:noun
-АДН/C	po:abbr exp:активное диспансерное наблюдение
-АДП/C	po:abbr exp:атипичный детский психоз
 адреноблокатор/K	po:noun
 адренолейкодистрофия/I	po:noun
 ажитафразия/I	po:noun
@@ -49,7 +231,6 @@
 азенапин/K	po:noun
 азотемический/A	po:adjective
 азотурия/I	po:noun
-АИТ/C	po:abbr exp:аутоиммунный тиреоидит
 айдомания/I	po:noun
 айхмофобия/I	po:noun
 акайрия/I	po:noun
@@ -78,9 +259,9 @@
 акрофобия/I	po:noun
 акроцефалия/I	po:noun
 акроцефалосиндактилия/I	po:noun
-АКТГ/C	po:abbr exp:адренокортикотропный гормон
 акустикогенный/A	po:adjective
 акустикофобия/I	po:noun
+алалия/I	po:noun
 алгедония/I	po:noun
 алгический/A	po:adjective
 алгогаллюциноз/K	po:noun
@@ -105,9 +286,7 @@
 аллоэстезия/I	po:noun
 алогия/I	po:noun
 алпразолам/K	po:noun
-АЛТ/C	po:abbr exp:аланинаминотрансфераза
 альтернирующий/A	po:adjective
-Альцгеймер/MC	st:Альцгеймер po:proper_noun
 альцгеймеризация/I	po:noun
 альцгеймеровский/A	po:adjective
 амавротический/A	po:adjective
@@ -126,10 +305,18 @@
 аменомания/I	po:noun
 аментивноподобный/A	po:adjective
 аментивный/A	po:adjective
+амигдала/I	po:noun
+амигдалогиппокампальный/A	po:adjective
+амигдалопириформный/A	po:adjective
+амигдалотомия/I	po:noun
+амилоидный/A	po:adjective
+амилоидогенез/K	po:noun
 амимия/I	po:noun
+аминазиновый/A	po:adjective
 аминалон/K	po:noun
 аминептин/K	po:noun
 аминоацидурия/I	po:noun
+аминофенилмасляный/A	po:adjective
 амиостатический/A	po:adjective
 амиостения/I	po:noun
 амиотрофический/A	po:adjective
@@ -139,14 +326,19 @@
 амнестический/A	po:adjective
 амобарбитал/K	po:noun
 амотивационный/A	po:adjective
+амфетамин/K	po:noun
+амфетаминовый/A	po:adjective
 амфитимия/I	po:noun
 аналгезия/I	po:noun
 аналгетик/K	po:noun
 аналгетомания/I	po:noun
 аналептик/K	po:noun
+анальгезирующий/A	po:adjective
 ананказм/K	po:noun
+ананкаст/K	po:noun
 ананкастический/A	po:adjective
 ананкастия/I	po:noun
+ананкастный/A	po:adjective
 анартрия/I	po:noun
 анастрофа/I	po:noun
 анатомогистологический/A	po:adjective
@@ -155,9 +347,11 @@
 анахоретизм/K	po:noun
 анахоретство/K	po:noun
 анашизм/K	po:noun
+ангедонический/A	po:adjective
 ангедония/I	po:noun
 ангинофобия/I	po:noun
 ангиоматоз/K	po:noun
+ангионевротический/A	po:adjective
 ангиопаралитический/A	po:adjective
 ангиоспастический/A	po:adjective
 ангиоцеребрография/I	po:noun
@@ -175,12 +369,17 @@
 анизокория/I	po:noun
 анилингус/K	st:анилингус po:noun
 анимус/K	po:noun
+анксиолитик/K	po:noun
+анксиолитический/A	po:adjective
 анозогнозия/I	po:noun
 анозодиафория/I	po:noun
+анозологизм/K	po:noun
 аноксический/A	po:adjective
+аномический/A	po:adjective
 анонимия/I	po:noun
 анонимография/I	po:noun
 аноргазмия/I	po:noun
+аноректический/A	po:adjective
 анормия/I	po:noun
 аносмия/I	po:noun
 аноэтический/A	po:adjective
@@ -188,36 +387,56 @@
 антероградный/A	po:adjective
 антероретроградный/A	po:adjective
 антиадренергический/A	po:adjective
+антиамилоидный/A	po:adjective
+антиастенический/A	po:adjective
+антибредовый/A	po:adjective
+антигаллюцинаторный/A	po:adjective
+антигипоксант/K	po:noun
+антигипоксический/A	po:adjective
 антидепрессивный/A	po:adjective
+антидискинетический/A	po:adjective
 антиконвульсант/K	po:noun
+антиконвульсантный/A	po:adjective
+антиконвульсивный/A	po:adjective
 антилюэтический/A	po:adjective
+антиманиакальный/A	po:adjective
 антимонголоидный/A	po:adjective
+антинегативный/A	po:adjective
 антинозологизм/K	po:noun
+антиноцицептивный/A	po:adjective
+антиобсессивный/A	po:adjective
+антипаркинсонический/A	po:adjective
+антипсихиатрический/A	po:adjective
 антипсихиатрия/I	po:noun
 антипсихотик/K	po:noun
 антипсихотический/A	po:adjective
 антисуггестивный/A	po:adjective
 антифетишизм/K	po:noun
+антифобический/A	po:adjective
+антихолинергический/A	po:adjective
+антиэпилептический/A	po:adjective
 антофобия/I	po:noun
 антропоанализ/K	po:noun
 антропофобия/I	po:noun
 анэкфория/I	po:noun
 анэтомания/I	po:noun
+анэякуляторный/A	po:adjective
 апаллический/A	po:adjective
 апатизация/I	po:noun
+апатоадинамический/A	po:adjective
+апатомеланхолический/A	po:adjective
 апейрофобия/I	po:noun
 апелляция/I	po:noun
 апиретический/A	po:adjective
 апифобия/I	po:noun
-АПНЛ/C	po:abbr exp:амбулаторное принудительное наблюдение и лечение
 апноэ	po:noun
 апокалиптика/I	po:noun
 апоморфинотерапия/I	po:noun
 апопатофобия/I	po:noun
 апоплектиформный/A	po:adjective
 апоплектический/A	po:adjective
+апотемнофилия/I	po:noun
 апофения/I	po:noun
-АПП/C	po:abbr exp:антипсихотики первого поколения
 апрактический/A	po:adjective
 апрактоагнозия/I	po:noun
 апрактоагностический/A	po:adjective
@@ -225,9 +444,9 @@
 апрозектический/A	po:adjective
 апситирия/I	po:noun
 апсихоз/K	po:noun
+арахноидэндотелиома/I	po:noun
 арахноменингит/K	po:noun
 арахнофобия/I	po:noun
-АРВТ/C	po:abbr exp:антиретровирусная терапия
 арганизм/K	po:noun
 арететерапия/I	po:noun
 аретотерапия/I	po:noun
@@ -237,7 +456,6 @@
 аритмофобия/I	po:noun
 арифмомания/I	po:noun
 арифмофобия/I	po:noun
-АРЛ/C	po:abbr exp:антисоциальное расстройство личности
 артериосклеротический/A	po:adjective
 артикулированный/A	po:adjective
 арттерапия/I	po:noun
@@ -253,29 +471,33 @@
 асинтаксичность/N	po:noun
 асинтонный/A	po:adjective
 асинхрония/I	po:noun
+асоматогнозия/I	po:noun
 асомния/I	po:noun
 асоциальность/N	po:noun
-Аспергер/MC	st:Аспергер po:proper_noun
 аспонтанность/N	po:noun
 аспонтанный/A	po:adjective
 ассертивность/N	po:noun
 ассортативность/N	po:noun
 ассортативный/A	po:adjective
 ассоцианистский/A	po:adjective
-АСТ/C	po:abbr exp:аспартатаминотрансфераза
 астенизация/I	po:noun
+астенический/A	po:adjective
 астения/I	po:noun
 астеноадинамический/A	po:adjective
+астеноапатический/A	po:adjective
 астеновегетативный/A	po:adjective
 астеногипотонический/A	po:adjective
 астенодепрессивный/A	po:adjective
+астенодиспластический/A	po:adjective
 астеноипохондрический/A	po:adjective
 астеномания/I	po:noun
 астеноневротический/A	po:adjective
 астеноподобный/A	po:adjective
 астматол/K	po:noun
 астрофобия/I	po:noun
+астроцитарный/A	po:adjective
 астроцитоз/K	po:noun
+астроцитома/I	po:noun
 асхематизм/K	po:noun
 атаксиофобия/I	po:noun
 атактический/A	po:adjective
@@ -283,6 +505,7 @@
 атарактик/K	po:noun
 атарактический/A	po:adjective
 атетоз/K	po:noun
+атетозоподобный/A	po:adjective
 атетоидный/A	po:adjective
 атетонический/A	po:adjective
 атетотический/A	po:adjective
@@ -295,6 +518,7 @@
 атропиновый/A	po:adjective
 атропинокоматозный/A	po:adjective
 атрофичный/A	po:adjective
+атрофия/I	po:noun
 аудиогенный/A	po:adjective
 аудиосенсорный/A	po:adjective
 аудитивный/A	po:adjective
@@ -302,17 +526,21 @@
 аустоскопия/I	po:noun
 аутентичность/N	po:noun
 аутизация/I	po:noun
+аутистикоподобный/A	po:adjective
 аутистический/A	po:adjective
 аутический/A	po:adjective
 аутичность/N	po:noun
 аутичный/A	po:adjective
 аутоагрессивный/A	po:adjective
 аутоагрессия/I	po:noun
+аутоантитело/K	po:noun
+аутоасфиксиофилия/I	po:noun
 аутовисцероскопический/A	po:adjective
 аутовисцероскопия/I	po:noun
 аутогипноз/K	po:noun
 аутогипнотический/A	po:adjective
 аутодепиляция/I	po:noun
+аутодеструктивный/A	po:adjective
 аутоидентификация/I	po:noun
 аутоиндуцированный/A	po:adjective
 аутокастрация/I	po:noun
@@ -328,6 +556,7 @@
 аутопсихоз/K	po:noun
 ауторедупликация/I	po:noun
 ауторелаксация/I	po:noun
+ауторецептор/K	po:noun
 аутосадизм/K	po:noun
 аутоскопический/A	po:adjective
 аутоскопия/I	po:noun
@@ -337,6 +566,7 @@
 аутосуггестия/I	po:noun
 аутотомия/I	po:noun
 аутотопагнозия/I	po:noun
+аутотопогнозия/I	po:noun
 аутофилия/I	po:noun
 аутофобия/I	po:noun
 аутохтонный/A	po:adjective
@@ -360,17 +590,20 @@
 ахондроплазия/I	po:noun
 ахроногнозия/I	po:noun
 ахронозия/I	po:noun
+ацетилхолин/K	po:noun
+ацетилхолинергический/A	po:adjective
+ацетилхолиновый/A	po:adjective
+ацетилхолинэстераза/I	po:noun
 ацетонемический/A	po:adjective
-Ашаффенбург/MC	st:Ашаффенбург po:proper_noun
 аэроневроз/K	po:noun
 аэрофагия/I	po:noun
 аэрофобия/I	po:noun
-БА/C	po:abbr exp:болезнь Альцгеймера
 базоспазм/K	po:noun
 базофобия/I	po:noun
+баклофен/K	po:noun
 бактериофобия/I	po:noun
-БАР/C	po:abbr exp:биполярное аффективное расстройство
 барагнозия/I	po:noun
+барбитурат/K	po:noun
 барбитуратизм/K	po:noun
 барбитуризм/K	po:noun
 барбитуромания/I	po:noun
@@ -382,9 +615,9 @@
 батофобия/I	po:noun
 баттаризм/K	po:noun
 бациллофобия/I	po:noun
-БД/C	po:abbr exp:биполярная депрессия
-БДУ/C	po:abbr exp:рубрика «без дальнейшего уточнения»
+безинсультный/A	po:adjective
 безоар/K	po:noun
+безэмоциональность/N	po:noun
 бекламид/K	st:бекламид po:noun
 белонофобия/I	po:noun
 бемегрид/K	po:noun
@@ -398,32 +631,40 @@
 бензонал/K	po:noun
 бенперидол/K	po:noun
 бертранизм/K	po:noun
+бессудорожный/A	po:adjective
 бестиализм/K	po:noun
 бестиофилия/I	po:noun
 беттолепсия/I	po:noun
-Бехтерев/MC	st:Бехтерев po:proper_noun
 библиоклептомания/I	po:noun
 библиотерапия/I	po:noun
 библиофилия/I	po:noun
 биланизм/K	po:noun
+билатеральный/A	po:adjective
+билингвальный/A	po:adjective
+бимодальность/N	po:noun
 биологизация/I	po:noun
+биомаркер/K	po:noun
+биопсихосоциальный/A	po:adjective
+биосоциальный/A	po:adjective
 бипериден/K	po:noun
 биполярность/N	po:noun
 бисексуализм/K	po:noun
+битемпоральный/A	po:adjective
+бифазный/A	po:adjective
 бифемелан/K	po:noun
 бифенилинданон/K	po:noun
 бифокальный/A	po:adjective
+бифронтальный/A	po:adjective
 бихевиоральный/A	po:adjective
+бихевиоризм/K	po:noun
 бихевиористический/A	po:adjective
 блаптофобия/I	po:noun
 бластофтория/I	po:noun
 бласфемия/I	po:noun
-Блейлер/MC	st:Блейлер po:proper_noun
 блефаридотилломания/I	po:noun
 блефароспазм/K	po:noun
 блеяние/K	po:noun
 боваризм/K	po:noun
-БП/C	po:abbr exp:болезнь Паркинсона
 брадибазия/I	po:noun
 брадикинезия/I	po:noun
 брадилалия/I	po:noun
@@ -431,6 +672,7 @@
 брадилогия/I	po:noun
 брадипраксия/I	po:noun
 брадипсихизм/K	po:noun
+брадипсихический/A	po:adjective
 брадипсихия/I	po:noun
 брадителекинез/K	po:noun
 брадителекинезия/I	po:noun
@@ -440,57 +682,78 @@
 брадифрения/I	po:noun
 брахиалгия/I	po:noun
 брахимезофалангия/I	po:noun
+брахиоцефальный/A	po:adjective
 бревесомния/I	po:noun
 бредообразование/K	po:noun
 бредоподобный/A	po:adjective
 бромазепам/K	po:noun
 бромгидрофобия/I	po:noun
 бромизовал/K	po:noun
+бромокриптин/K	po:noun
 бронтофобия/I	po:noun
-БТ/C	po:abbr exp:быстрая транквилизация
+брутальность/N	po:noun
 буккальный/A	po:adjective
+булимический/A	po:adjective
 бульбарный/A	po:adjective
+бупренорфин/K	po:noun
 бупропион/K	po:noun
 буспирон/K	po:noun
 бутирофенон/K	po:noun
 буфотенин/K	po:noun
-БЦ/C	po:abbr exp:брахицефал
+быстроволновой/A	po:adjective
+быстропреходящий/A	po:adjective
+быстроциклический/A	po:adjective
 вагабондаж/K	po:noun
 вагинизм/K	po:noun
 ваговазальный/A	po:adjective
 вагодиния/I	po:noun
+вагостимуляция/I	po:noun
 ваготонический/A	po:adjective
 ваготония/I	po:noun
+вагусный/A	po:adjective
+вазоактивный/A	po:adjective
 вазовегетативный/A	po:adjective
+вазовегетотропный/A	po:adjective
 вазогенный/A	po:adjective
+вазопрессин/K	po:noun
+вазоспазм/K	po:noun
+валидизация/I	po:noun
+валидный/A	po:adjective
+вальпроат/K	po:noun
 вальпроевый/A	po:adjective
 вампиризм/K	po:noun
 вариабельный/A	po:adjective
-ВВЭ/C	po:abbr exp:военно-врачебная экспертиза
+васкулит/K	po:noun
 вегетовисцеральный/A	po:adjective
 вегетодистонический/A	po:adjective
 вегетодистония/I	po:noun
 вегетоневротический/A	po:adjective
 вегетосоматический/A	po:adjective
 вегетососудистый/A	po:adjective
+вегетостабилизирующий/A	po:adjective
+вегетофобия/I	po:noun
 везанический/A	po:adjective
-Векслер/MC	st:Векслер po:proper_noun
 венерофобия/I	po:noun
 венлафаксин/K	po:noun
+вентральный/A	po:adjective
 вентрикулография/I	po:noun
 вентрикулопункция/I	po:noun
 вентрикулярный/A	po:adjective
+вентролатеральный/A	po:adjective
+вентромедиальный/A	po:adjective
 вербигерация/I	po:noun
 вербомания/I	po:noun
 вербохромия/I	po:noun
 верификационный/A	po:adjective
 вермифобия/I	po:noun
-Вернике/C	st:Вернике po:proper_noun
+вертебральный/A	po:adjective
+вертебробазиллярный/A	po:adjective
 вертиго	po:noun
 вертигофобия/I	po:noun
 вестибуломозжечковый/A	po:adjective
 взаимопереход/K	po:noun
-ВИ/C	po:abbr exp:взвешенное изображение
+вздрагивание/K	po:noun
+вигабатрин/K	po:noun
 вигиламбулизм/K	po:noun
 вигилитет/K	po:noun
 видеопсихотерапия/I	po:noun
@@ -502,72 +765,81 @@
 вилазодон/K	po:noun
 вилоксазин/K	po:noun
 винофобия/I	po:noun
+винпоцетин/K	po:noun
 вирагиния/I	po:noun
 виргогамия/I	po:noun
 вирилизация/I	po:noun
 вирилизм/K	po:noun
 вискозность/N	po:noun
+височно-таламический/A	po:adjective
+височно-теменной/A	po:adjective
+височнодолевой/A	po:adjective
+височнозатылочный/A	po:adjective
+висцеровегетативный/A	po:adjective
+висцеросенсорный/A	po:adjective
 витализация/I	po:noun
 витальность/N	po:noun
-ВИЧ/C	po:abbr exp:вирус иммунодефицита человека
-ВЛОК/C	po:abbr exp:внутривенное лазерное облучение крови
 внебольничный/A	po:adjective
 внешнесредовой/A	po:adjective
 внутрибольничный/A	po:adjective
+внутрижелудочковый/A	po:adjective
+внутрикорковый/A	po:adjective
 внутриличностный/A	po:adjective
+внутрилобный/A	po:adjective
 внутримозговой/A	po:adjective
+внутринейрональный/A	po:adjective
 внутрипсихический/A	po:adjective
 внутрисемейный/A	po:adjective
 вовлеченность/N	po:noun
 вовлечённость/N	po:noun
-ВОЗ/C	po:abbr exp:Всемирная организация здравоохранения
 возбудительный/A	po:adjective
+воксельный/A	po:adjective
+волюметрический/A	po:adjective
 вомитофобия/I	po:noun
 вортиоксетин/K	po:noun
 восковидный/A	po:adjective
 воспалительный/A	po:adjective
 восприятие/K	po:noun
-ВП/C	po:abbr exp:вызванные потенциалы
-ВПА/C	po:abbr exp:Всемирная психиатрическая ассоциация
 вредность/N	po:noun
 вуайеризм/K	po:noun
 вульвизм/K	po:noun
 выбухание/K	po:noun
 выплевывание/K	po:noun
 высокоамплитудный/A	po:adjective
+высокопотентный/A	po:adjective
 высокосистематизированный/A	po:adjective
 высокоспецифичный/A	po:adjective
+высокофункциональный/A	po:adjective
 выхолощенность/N	po:noun
-ВЭ/C	po:abbr exp:височная эпилепсия
 вязкоапатический/A	po:adjective
 габапентин/K	po:noun
 габоксадол/K	po:noun
-Гайе/C	st:Гайе po:proper_noun
 галазепам/K	po:noun
 галакторея/I	po:noun
+галантамин/K	po:noun
 галеантропия/I	po:noun
 галеропия/I	po:noun
+галлюцинаторный/A	po:adjective
 галлюцинация/I	po:noun
 галлюциноз/K	po:noun
 галлюциноид/K	po:noun
 галоперидол/K	po:noun
 гальванопунктура/I	po:noun
 гамбринизм/K	po:noun
-ГАМК/C	po:abbr exp:γ-аминомасляная кислота
 гамомания/I	po:noun
+ганглиоблокатор/K	po:noun
 ганглиозид/K	po:noun
-Ганзер/MC	st:Ганзер po:proper_noun
-Ганнушкин/U	st:Ганнушкин po:proper_noun
 гаптический/A	po:adjective
 гаптофобия/I	po:noun
 гаргоилизм/K	po:noun
 гафалгезия/I	po:noun
 гашишемания/I	po:noun
 гашишный/A	po:adjective
-ГГТ/C	po:abbr exp:γ-глютамилтрансфераза
 геатоскопия/I	po:noun
 гебефренический/A	po:adjective
 гебефрения/I	po:noun
+гебефренный/A	po:adjective
+гебефреноидный/A	po:adjective
 гебоид/K	po:noun
 гебоидный/A	po:adjective
 гебоидофрения/I	po:noun
@@ -584,19 +856,26 @@
 гематидроз/K	po:noun
 гематопорфирин/K	po:noun
 гематоэнцефалический/A	po:adjective
+гемблер/K	po:noun
+гемблинг/K	po:noun
 гемералопия/I	po:noun
+гемианопсия/I	po:noun
 гемианоптический/A	po:adjective
 гемибаллизм/K	po:noun
 гемигиперестезия/I	po:noun
+гемигипестезия/I	po:noun
 гемикрания/I	po:noun
 гемипарез/K	po:noun
 гемипаркинсонизм/K	po:noun
 гемиплегия/I	po:noun
 гемисоматоагнозия/I	po:noun
 гемисоматогнозия/I	po:noun
+гемисфера/I	po:noun
 гемихорея/I	po:noun
 гемодез/K	po:noun
+геморрагия/I	po:noun
 гемосорбция/I	po:noun
+гендерный/A	po:adjective
 генерализованный/A	po:adjective
 генуинный/A	po:adjective
 геомания/I	po:noun
@@ -608,6 +887,7 @@
 гередодегенеративный/A	po:adjective
 гередодегенерация/I	po:noun
 геродермия/I	po:noun
+героин/K	po:noun
 героинизм/K	po:noun
 геронтоксон/K	po:noun
 геронтопсихиатрический/A	po:adjective
@@ -616,14 +896,18 @@
 геронтофобия/I	po:noun
 геростратизм/K	po:noun
 герфонал/K	po:noun
+гетероагрессивный/A	po:adjective
+гетероагрессия/I	po:noun
 гетероаутономность/N	po:noun
+гетерорецептор/K	po:noun
 гетеросексуальность/N	po:noun
 гетеростезия/I	po:noun
 гетеросуггестия/I	po:noun
+гетеротопия/I	po:noun
 гетеротрихоз/K	po:noun
 гефирофобия/I	po:noun
-Гешвинд/MC	st:Гешвинд po:proper_noun
 гештальт/K	po:noun
+гештальт-терапия/I	po:noun
 гиалинизация/I	po:noun
 гигрический/A	po:adjective
 гигропарестезия/I	po:noun
@@ -633,6 +917,7 @@
 гидроксизин/K	po:noun
 гидрофобия/I	po:noun
 гидрофтальм/K	po:noun
+гидроцефалический/A	po:adjective
 гидроцефальный/A	po:adjective
 гиерофобия/I	st:гиерофобия po:noun
 гинандризм/K	po:noun
@@ -646,6 +931,7 @@
 гипенгиофобия/I	po:noun
 гиперазотемия/I	po:noun
 гиперактивность/N	po:noun
+гиперактивный/A	po:adjective
 гиперакузия/I	po:noun
 гипералгезия/I	po:noun
 гипераминоацидурия/I	po:noun
@@ -656,9 +942,12 @@
 гипергедонизм/K	po:noun
 гипергедония/I	po:noun
 гипергия/I	po:noun
+гипергомоцистеинемия/I	po:noun
 гипергонадотропный/A	po:adjective
 гиперграфия/I	po:noun
 гипергрипния/I	po:noun
+гипердинамический/A	po:adjective
+гипердофаминергический/A	po:adjective
 гипередизм/K	po:noun
 гиперергазия/I	po:noun
 гиперергия/I	po:noun
@@ -667,6 +956,7 @@
 гиперинсоляция/I	po:noun
 гиперинсулинемия/I	po:noun
 гиперинсулинизм/K	po:noun
+гиперинтенсивность/N	po:noun
 гиперицин/K	po:noun
 гиперкалиемия/I	po:noun
 гиперкальциемия/I	po:noun
@@ -675,37 +965,55 @@
 гиперкинез/K	po:noun
 гиперкинезия/I	po:noun
 гиперкинетический/A	po:adjective
+гиперкоагуляция/I	po:noun
 гиперкомпенсация/I	po:noun
+гиперкортизолемия/I	po:noun
 гиперкортицизм/K	po:noun
+гиперлибидемия/I	po:noun
 гиперлипемия/I	po:noun
 гиперлипидемия/I	po:noun
+гипермаскулинный/A	po:adjective
 гиперметаморфоз/K	po:noun
+гиперметилирование/K	po:noun
 гиперметрия/I	po:noun
 гипермимия/I	po:noun
 гипермнезия/I	po:noun
 гипермотильность/N	po:noun
 гипернефрома/I	po:noun
+гипернозогнозический/A	po:adjective
+гиперопека/I	po:noun
 гиперопсия/I	po:noun
 гиперорексия/I	po:noun
 гиперосмия/I	po:noun
 гиперостоз/K	po:noun
+гиперпатический/A	po:adjective
 гиперпатия/I	po:noun
+гиперперсонализация/I	po:noun
 гиперпигментация/I	po:noun
 гиперпирексический/A	po:adjective
 гиперпирексия/I	po:noun
 гиперпиротерапия/I	po:noun
 гиперпродукция/I	po:noun
 гиперпрозексия/I	po:noun
+гиперпролактинемический/A	po:adjective
+гиперпролактинемия/I	po:noun
 гиперпсихоз/K	po:noun
+гиперреактивность/N	po:noun
 гиперрефлексия/I	po:noun
 гиперсаливация/I	po:noun
+гиперсексуальный/A	po:adjective
+гиперсимпатикотония/I	po:noun
 гиперсинхронный/A	po:adjective
 гиперсомнический/A	po:adjective
 гиперсомния/I	po:noun
+гиперсоциальность/N	po:noun
+гиперсоциальный/A	po:adjective
 гиперстенический/A	po:adjective
 гиперстения/I	po:noun
 гиперсублимация/I	po:noun
 гипертелоризм/K	po:noun
+гипертензивный/A	po:adjective
+гипертензионно-гидроцефальный/A	po:adjective
 гипертензионный/A	po:adjective
 гипертермический/A	po:adjective
 гипертимик/K	po:noun
@@ -716,9 +1024,13 @@
 гипертиреоидизм/K	po:noun
 гипертиреоидный/A	po:adjective
 гипертоксический/A	po:adjective
+гипертревожный/A	po:adjective
 гиперурикемия/I	po:noun
 гиперурикурия/I	po:noun
 гиперфагитационный/A	po:adjective
+гиперфагический/A	po:adjective
+гиперфагия/I	po:noun
+гиперфемининный/A	po:adjective
 гиперфосфатемия/I	po:noun
 гиперфосфатурия/I	po:noun
 гиперчувствительность/N	po:noun
@@ -740,9 +1052,12 @@
 гипнонаркоз/K	po:noun
 гипнопомпический/A	po:adjective
 гипнопсихотерапия/I	po:noun
+гипноседативный/A	po:adjective
 гипносуггестивный/A	po:adjective
+гипнотик/K	po:noun
 гипнофоб/K	po:noun
 гипнофобия/I	po:noun
+гипоактивность/N	po:noun
 гипоапараноический/A	po:adjective
 гипобулика/I	po:noun
 гипобулический/A	po:adjective
@@ -750,35 +1065,47 @@
 гиповентиляция/I	po:noun
 гиповитаминоз/K	po:noun
 гипогевзия/I	po:noun
+гипогейзия/I	po:noun
 гипогемоглобинемия/I	po:noun
 гипогенитализм/K	po:noun
 гипогидроз/K	po:noun
 гипогликемический/A	po:adjective
 гипогонадизм/K	po:noun
+гиподофаминергический/A	po:adjective
 гипокальциемия/I	po:noun
 гипокинетический/A	po:adjective
 гипоксемический/A	po:adjective
 гипоманиакальный/A	po:adjective
 гипомания/I	po:noun
 гипомнезия/I	po:noun
+гипонозогнозический/A	po:adjective
 гипоноический/A	po:adjective
+гипоопека/I	po:noun
 гипопараноический/A	po:adjective
 гипопаратиреоз/K	po:noun
 гипопатический/A	po:adjective
 гипопатия/I	po:noun
+гипоперфузионный/A	po:adjective
+гипоперфузия/I	po:noun
 гипопигментация/I	po:noun
 гипопитуитаризм/K	po:noun
+гипопрозексия/I	po:noun
 гипопсихоз/K	po:noun
 гипопсихотический/A	po:adjective
+гипореактивность/N	po:noun
 гипосаливация/I	po:noun
+гипосексуальность/N	po:noun
 гипостенический/A	po:adjective
 гипостения/I	po:noun
 гипотаксия/I	po:noun
 гипоталамический/A	po:adjective
+гипоталамо-гипофизарный/A	po:adjective
 гипоталаморетикулярный/A	po:adjective
+гипоталамотомия/I	po:noun
 гипотимик/K	po:noun
 гипотимический/A	po:adjective
 гипотимия/I	po:noun
+гипотимный/A	po:adjective
 гипотиреоз/K	po:noun
 гипотиреоидизм/K	po:noun
 гипотиреоидный/A	po:adjective
@@ -787,6 +1114,7 @@
 гипофизоталамический/A	po:adjective
 гипофобия/I	po:noun
 гипофрения/I	po:noun
+гипофронтальность/N	po:noun
 гипохромный/A	po:adjective
 гиппокамп/K	po:noun
 гиппокампальный/A	po:adjective
@@ -794,15 +1122,24 @@
 гиппус/K	po:noun
 гипсаритмия/I	po:noun
 гирсутизм/K	po:noun
+гистамин/K	po:noun
+гистаминовый/A	po:adjective
 гистодисплазия/I	po:noun
+гистриноформный/A	po:adjective
 гистрионизм/K	po:noun
 гистрионический/A	po:adjective
+гистрионный/A	po:adjective
 гифегедония/I	po:noun
-ГК/C	po:abbr exp:глюкокортикоид
 глазничный/A	po:adjective
 гландулярный/A	po:adjective
+глиальный/A	po:adjective
+глиобластома/I	po:noun
 глиоз/K	po:noun
+глиозный/A	po:adjective
+глиома/I	po:noun
 глиофиброзный/A	po:adjective
+глицин/K	po:noun
+глициновый/A	po:adjective
 глишроидия/I	po:noun
 глишроидный/A	po:adjective
 глобарный/A	po:adjective
@@ -812,7 +1149,11 @@
 глоссомания/I	po:noun
 глоссоптоз/K	po:noun
 глубинный/A	po:adjective
+глутамат/K	po:noun
+глутаматергический/A	po:adjective
+глутаматный/A	po:adjective
 глюкагон/K	po:noun
+глюкокортикоид/K	po:noun
 глюконат/K	po:noun
 глюконеогенез/K	po:noun
 глюферал/K	po:noun
@@ -834,11 +1175,13 @@
 гомономный/A	po:adjective
 гомосексуал/K	po:noun
 гомосексуальный/A	po:adjective
+гомоцистеин/K	po:noun
+гомоцистинурия/I	po:noun
 гонадолиберин/K	po:noun
+гопантеновый/A	po:adjective
 гормональный/A	po:adjective
 госпитализация/I	po:noun
 госпитализм/K	po:noun
-ГП/C	po:abbr exp:гиперпролактинемия
 гравидофобия/I	po:noun
 грандаксин/K	po:noun
 грандомания/I	po:noun
@@ -856,19 +1199,18 @@
 грубодефектный/A	po:adjective
 грубоочаговый/A	po:adjective
 грубопрогредиентный/A	po:adjective
-ГСП/C	po:abbr exp:гиперсексуальное поведение
+гуанфацин/K	po:noun
 губчатоподобный/A	po:adjective
 дакномания/I	po:noun
 дакриурия/I	po:noun
 дактилоспазм/K	po:noun
-Даннинг/MC	st:Даннинг po:proper_noun
 дансомания/I	po:noun
 даридорексант/K	po:noun
-ДБП/C	po:abbr exp:депрессия при болезни Паркинсона
 двуполость/N	po:noun
 двухфазный/A	po:adjective
-ДГЭА-С/C	po:abbr exp:дегидроэпиандростеронсульфат
 деавтоматизация/I	po:noun
+дебилизация/I	po:noun
+девиант/K	po:noun
 девиантный/A	po:adjective
 девиация/I	po:noun
 дегенерант/K	po:noun
@@ -876,18 +1218,26 @@
 дезавтоматизация/I	po:noun
 дезаггравация/I	po:noun
 дезагрегация/I	po:noun
+дезадаптационный/A	po:adjective
 дезадаптация/I	po:noun
+дезадаптивный/A	po:adjective
 дезадаптирующий/A	po:adjective
 дезактуализация/I	po:noun
 дезанимация/I	po:noun
+дезингибирующий/A	po:adjective
+дезинтегративность/N	po:noun
 дезинтегративный/A	po:adjective
+дезинтегрированность/N	po:noun
 дезипрамин/K	po:noun
 дезориентировка/I	po:noun
+деидентификация/I	po:noun
+деинституционализация/I	po:noun
 дейтероскопический/A	po:adjective
 дейтероскопия/I	po:noun
 деканоат/K	po:noun
 декапсуляция/I	po:noun
 декатектирование/K	po:noun
+декомпенсация/I	po:noun
 декомпенсированный/A	po:adjective
 дексаметазон/K	po:noun
 дексамфетамин/K	po:noun
@@ -900,7 +1250,11 @@
 делинквентность/N	po:noun
 делинквентный/A	po:adjective
 делириант/K	po:noun
+делирий/A	po:adjective
+делириозно-онирический/A	po:adjective
 делириозный/A	po:adjective
+делириум/K	po:noun
+дементирующий/A	po:adjective
 дементный/A	po:adjective
 деменция/I	po:noun
 демиелинизация/I	po:noun
@@ -909,12 +1263,18 @@
 демономания/I	po:noun
 демонофобия/I	po:noun
 демофобия/I	po:noun
+денервация/I	po:noun
 дентофобия/I	po:noun
 деонтологический/A	po:adjective
+деперсонализационно-дереализационный/A	po:adjective
 деперсонализационный/A	po:adjective
 деперсонализация/I	po:noun
+деперсонификация/I	po:noun
 депрессивность/N	po:noun
+депрессивный/A	po:adjective
+депрессия/I	po:noun
 депрессогенный/A	po:adjective
+депривационный/A	po:adjective
 депривация/I	po:noun
 депсихопатизация/I	po:noun
 дереализационный/A	po:adjective
@@ -932,6 +1292,10 @@
 десенситизация/I	po:noun
 десинхронизация/I	po:noun
 десоматизация/I	po:noun
+десоциализация/I	po:noun
+дестигматизационный/A	po:adjective
+дестигматизация/I	po:noun
+дестигматизирующий/A	po:adjective
 деструктивный/A	po:adjective
 детериорация/I	po:noun
 детокс/K	po:noun
@@ -943,40 +1307,53 @@
 дефектсиндром/K	po:noun
 дефектшизофрения/I	po:noun
 дефензивный/A	po:adjective
+дефицитарность/N	po:noun
 дефицитарный/A	po:adjective
 децеребрационный/A	po:adjective
 децеребрация/I	po:noun
+джексоновский/A	po:adjective
 диабетоподобный/A	po:adjective
 диабулимия/I	po:noun
 диазепам/K	po:noun
 диазепамовый/A	po:adjective
+диазепин/K	po:noun
 диакоптический/A	po:adjective
 диалоголалия/I	po:noun
 диарея/I	po:noun
 диасхиз/K	po:noun
 диасхизм/K	po:noun
 диатетический/A	po:adjective
+диацетилморфин/K	po:noun
 диашиз/K	po:noun
 дибенамин/K	po:noun
+дибензодиазепин/K	po:noun
+дивалпроекс/K	po:noun
 дигестивный/A	po:adjective
 дидактогения/I	po:noun
 дидаскалогения/I	po:noun
 диететический/A	po:adjective
 дизавтономия/I	po:noun
+дизартрический/A	po:adjective
+дизартрия/I	po:noun
 дизергазия/I	po:noun
 дизестезия/I	po:noun
+дизнейроонтогенез/K	po:noun
+дизнейроонтогенетический/A	po:adjective
 дизнойя/I	po:noun
 дизонтогенез/K	po:noun
+дизонтогенетический/A	po:adjective
+дизонтогения/I	po:noun
 дизорексия/I	po:noun
+дизорфография/I	po:noun
 дизостоз/K	po:noun
 дизостозический/A	po:adjective
 дизосфрезия/I	po:noun
 дизурия/I	po:noun
+дименсиональный/A	po:adjective
 дименсия/I	po:noun
 диметиламфетамин/K	po:noun
 диметилтриптамин/K	po:noun
 динофобия/I	po:noun
-Диоген/MC	st:Диоген po:proper_noun
 диплопия/I	po:noun
 диппольдизм/K	po:noun
 дипсоманический/A	po:adjective
@@ -986,9 +1363,12 @@
 дисбазия/I	po:noun
 дисбулия/I	po:noun
 дисгамия/I	po:noun
+дисгармония/I	po:noun
 дисгевзия/I	po:noun
+дисгенез/K	po:noun
 дисгенезия/I	po:noun
 дисгенитальный/A	po:adjective
+дисгнозия/I	po:noun
 дисграфия/I	po:noun
 дисдипсия/I	po:noun
 дискалькулия/I	po:noun
@@ -1001,7 +1381,9 @@
 дискордантность/N	po:noun
 дискордантный/A	po:adjective
 дискриминативный/A	po:adjective
+дислалический/A	po:adjective
 дислалия/I	po:noun
+дислексический/A	po:adjective
 дислексия/I	po:noun
 дисмегалопсия/I	po:noun
 дисметаболический/A	po:adjective
@@ -1023,24 +1405,38 @@
 диспластический/A	po:adjective
 диспноэ/K	po:noun
 диспраксия/I	po:noun
+диспрактический/A	po:adjective
 диспросодия/I	po:noun
+дисрегуляторный/A	po:adjective
+дисрегуляционный/A	po:adjective
 дисрегуляция/I	po:noun
 дисритмия/I	po:noun
+диссимулятивный/A	po:adjective
 диссинергия/I	po:noun
 диссолюция/I	po:noun
+диссомнический/A	po:adjective
 диссомния/I	po:noun
 диссонансный/A	po:adjective
+диссоциальный/A	po:adjective
+диссоциация/I	po:noun
+диссоциированность/N	po:noun
 диссоциированный/A	po:adjective
 дистантный/A	po:adjective
 дистимик/K	po:noun
+дистимиоподобный/A	po:adjective
 дистимический/A	po:adjective
 дистимичность/N	po:noun
 дистимия/I	po:noun
+дистония/I	po:noun
 дистонный/A	po:adjective
 дистресс/K	po:noun
+дистрессовый/A	po:adjective
 дистрофия/I	po:noun
+дисульфирам/K	po:noun
 дисфагия/I	po:noun
 дисфазический/A	po:adjective
+дисфазия/I	po:noun
+дисфориоподобность/N	po:noun
 дисфорический/A	po:adjective
 дисфория/I	po:noun
 дисфункциональный/A	po:adjective
@@ -1056,30 +1452,47 @@
 дицикломин/K	po:noun
 диэнцефалит/K	po:noun
 диэнцефалопатический/A	po:adjective
+диэнцефально-обменный/A	po:adjective
+диэнцефальный/A	po:adjective
 диэтиламид/K	po:noun
+длиннолатентный/A	po:adjective
 доболезненный/A	po:adjective
+додементный/A	po:adjective
 доксепин/K	po:noun
 доксиламин/K	po:noun
 дологический/A	po:adjective
+доманифестный/A	po:adjective
 доминанта/I	po:noun
 доминантный/A	po:adjective
+донепезил/K	po:noun
 донжуанизм/K	po:noun
 донкихотизм/K	po:noun
+донозологический/A	po:adjective
 дообследование/K	po:noun
+допамин/K	po:noun
+допаминергический/A	po:adjective
+допплерография/I	po:noun
+дорзальный/A	po:adjective
+дорзолатеральный/A	po:adjective
 доромания/I	po:noun
 дорофобия/I	po:noun
+дорсолатеральный/A	po:adjective
+дорсомедиальный/A	po:adjective
 досуточный/A	po:adjective
+дофаминблокирующий/A	po:adjective
 дофаминергический/A	po:adjective
+дофаминоблокирующий/A	po:adjective
 дофаминовый/A	po:adjective
+дофаминомиметик/K	po:noun
+дофаминстимулирующий/A	po:adjective
+драматерапия/I	po:noun
 драматогеничность/N	po:noun
 драпетомания/I	po:noun
 дромололепсия/I	po:noun
 дромоманический/A	po:adjective
 дромомания/I	po:noun
 дроперидол/K	po:noun
-ДТЛ/C	po:abbr exp:деменция с тельцами Леви
 дулоксетин/K	po:noun
-ДШ/C	po:abbr exp:детская шизофрения
 дюрантный/A	po:adjective
 евнухоидизм/K	po:noun
 евнухоидный/A	po:adjective
@@ -1087,10 +1500,15 @@
 желудочковый/A	po:adjective
 жестовый/A	po:adjective
 забвенье/K	po:noun
+заднебазальный/A	po:adjective
+заднебоковой/A	po:adjective
+задневисочный/A	po:adjective
 залеплон/K	po:noun
 западение/K	po:noun
 запамятование/K	po:noun
 заполняемый/A	po:adjective
+застреваемость/N	po:noun
+застывание/K	po:noun
 звукоизобразительный/A	po:adjective
 звукораздражитель/N	po:noun
 зелквистинель/N	po:noun
@@ -1098,7 +1516,6 @@
 зимелидин/K	po:noun
 зипрасидон/K	po:noun
 злокачественный/A	po:adjective
-ЗНС/C	po:abbr exp:злокачественный нейролептический синдром
 золпидем/K	po:noun
 зонисамид/K	po:noun
 зооантропия/I	po:noun
@@ -1110,17 +1527,17 @@
 зоофобия/I	po:noun
 зооэрастия/I	po:noun
 зопиклон/K	po:noun
-ЗПР/C	po:abbr exp:задержка психического развития
+зрительно-моторный/A	po:adjective
 зуклопентиксол/K	po:noun
-ИА/C	po:abbr exp:интернет-аддикция
 ибогаин/K	po:noun
-ИБС/C	po:abbr exp:ишемическая болезнь сердца
 иглоукалывание/K	po:noun
+игромания/I	po:noun
 игротерапия/I	po:noun
 идеаторный/A	po:adjective
 идеоаффективный/A	po:adjective
 идеогенный/A	po:adjective
 идеокинетический/A	po:adjective
+идеообсессивный/A	po:adjective
 идеорея/I	po:noun
 идеофрения/I	po:noun
 идиоглоссия/I	po:noun
@@ -1145,10 +1562,8 @@
 иктафинность/N	po:noun
 иктафинный/A	po:adjective
 илоперидон/K	po:noun
-ИМ/C	po:abbr exp:инфаркт миокарда
 имаготерапия/I	po:noun
 имажинативный/A	po:adjective
-ИМАО/C	po:abbr exp:ингибиторы моноаминоксидазы
 имбецил/K	po:noun
 имизин/K	po:noun
 имипрамин/K	po:noun
@@ -1157,13 +1572,13 @@
 импровизирование/K	po:noun
 импульсация/I	po:noun
 импунитивный/A	po:adjective
-ИМТ/C	po:abbr exp:индекс массы тела
 инактивирующий/A	po:adjective
 инапетенция/I	po:noun
 инбредный/A	po:adjective
 инвалидизация/I	po:noun
 инволюнтарность/N	po:noun
 инволюционный/A	po:adjective
+ингалянт/K	po:noun
 индалпин/K	po:noun
 индетерминированный/A	po:adjective
 индоленция/I	po:noun
@@ -1176,17 +1591,25 @@
 инконтиненция/I	po:noun
 инкурабельность/N	po:noun
 иннерваторный/A	po:adjective
+иннервационно-денервационный/A	po:adjective
+инсайт/K	po:noun
 инсоляционный/A	po:adjective
+инсомнический/A	po:adjective
 инсомния/I	po:noun
 инспираторный/A	po:adjective
+инсула/I	po:noun
 инсулин/K	po:noun
 инсулиназа/I	po:noun
 инсулиновый/A	po:adjective
+инсулинокоматоз/K	po:noun
 инсулинокоматозный/A	po:adjective
 инсулинома/I	po:noun
+инсультный/A	po:adjective
+инсультофобия/I	po:noun
 инсулярный/A	po:adjective
 инсуффициентный/A	po:adjective
 интактный/A	po:adjective
+интеллектуально-мнестический/A	po:adjective
 интенциональный/A	po:adjective
 интенционный/A	po:adjective
 интеракционизм/K	po:noun
@@ -1198,6 +1621,8 @@
 интермиссия/I	po:noun
 интермиттирующий/A	po:adjective
 интернализация/I	po:noun
+интернетомания/I	po:noun
+интерорецептивный/A	po:adjective
 интерорецептор/K	po:noun
 интерорецепция/I	po:noun
 интероцептивный/A	po:adjective
@@ -1213,6 +1638,7 @@
 интоксикация/I	po:noun
 интолерантность/N	po:noun
 интракраниальный/A	po:adjective
+интраламинарный/A	po:adjective
 интранатальный/A	po:adjective
 интрапроекция/I	po:noun
 интрапсихический/A	po:adjective
@@ -1228,7 +1654,9 @@
 инцестный/A	po:adjective
 инцестофилия/I	po:noun
 иофобия/I	po:noun
-ИП/C	po:abbr exp:инфантильный психоз
+ипидакрин/K	po:noun
+ипохондриальный/A	po:adjective
+ипохондризация/I	po:noun
 ипохондрический/A	po:adjective
 ипохондричность/N	po:noun
 ипохондрия/I	po:noun
@@ -1237,19 +1665,23 @@
 ипрониазид/K	po:noun
 ипсация/I	po:noun
 ипсизм/K	po:noun
-ИРЛ/C	po:abbr exp:истерическое расстройство личности
+ипсилатеральный/A	po:adjective
 иррелевантный/A	po:adjective
 истериформный/A	po:adjective
 истерогенный/A	po:adjective
 истероид/K	po:noun
 истероидность/N	po:noun
 истероидный/A	po:adjective
+истероипохондрия/I	po:noun
 истерокаталепсия/I	po:noun
+истерокататонический/A	po:adjective
 истероневрастения/I	po:noun
 истероподобный/A	po:adjective
+истероформный/A	po:adjective
+истерохарактерологический/A	po:adjective
 истероэпилепсия/I	po:noun
 истощаемость/N	po:noun
-ИХЭ/C	po:abbr exp:ингибиторы холинэстеразы
+ишемический/A	po:adjective
 кайрофобия/I	po:noun
 какергазия/I	po:noun
 какогевзия/I	po:noun
@@ -1263,25 +1695,27 @@
 кальцификация/I	po:noun
 камазепам/K	po:noun
 камптокормия/I	po:noun
-Кандинский/AC	st:Кандинский po:proper_noun
 каннабигерол/K	po:noun
 каннабидиол/K	po:noun
 каннабизм/K	po:noun
 каннабиноид/K	po:noun
+каннабиноидный/A	po:adjective
 каннабинол/K	po:noun
 каннабиол/K	po:noun
+каннабис/K	po:noun
 каннабихромен/K	po:noun
-Каннер/MC	st:Каннер po:proper_noun
 канцерофобия/I	po:noun
-Капгра/C	st:Капгра po:proper_noun
 капельный/A	po:adjective
+капсулотомия/I	po:noun
 каптодиам/K	po:noun
 карбамазепин/K	po:noun
 карбидин/K	po:noun
+карбидопа/I	po:noun
 кардиазол/K	po:noun
 кардиазоловый/A	po:adjective
 кардиалгический/A	po:adjective
 кардиоваскулярный/A	po:adjective
+кардионевроз/K	po:noun
 кардиопротезный/A	po:adjective
 кардиофобический/A	po:adjective
 кардиофобия/I	po:noun
@@ -1296,10 +1730,12 @@
 катамениальный/A	po:adjective
 катамнез/K	po:noun
 катамнестический/A	po:adjective
+катаплексический/A	po:adjective
 катаплексия/I	po:noun
 катаплектиформный/A	po:adjective
 катаплектический/A	po:adjective
 катарсис/K	po:noun
+катарсический/A	po:adjective
 катартический/A	po:adjective
 кататимический/A	po:adjective
 кататимия/I	po:noun
@@ -1310,6 +1746,7 @@
 кататонический/A	po:adjective
 кататония/I	po:noun
 кататоноидный/A	po:adjective
+кататоноподобный/A	po:adjective
 катафазия/I	po:noun
 категоризация/I	po:noun
 катексис/K	po:noun
@@ -1317,8 +1754,9 @@
 катестетический/A	po:adjective
 катехоламин/K	po:noun
 кахектический/A	po:adjective
-Кащенко/C	st:Кащенко po:proper_noun
 квадриплегия/I	po:noun
+квазидименсиональный/A	po:adjective
+квазипсихотический/A	po:adjective
 кверулянт/K	po:noun
 кверулянтский/A	po:adjective
 кверулянтство/K	po:noun
@@ -1331,9 +1769,13 @@
 кераунопаралич/K	po:noun
 кераунофобия/I	po:noun
 кетазолам/K	po:noun
+кибераддикция/I	po:noun
+киберсекс/K	po:noun
+киберсексуальный/A	po:adjective
 киберхондрия/I	po:noun
 кивательный/A	po:adjective
 кинантропия/I	po:noun
+киндлинг/K	po:noun
 кинетичность/N	po:noun
 кинорексия/I	po:noun
 кинотерапия/I	po:noun
@@ -1350,8 +1792,6 @@
 клептоманический/A	po:adjective
 клептомания/I	po:noun
 клептофобия/I	po:noun
-Клерамбо/C	st:Клерамбо po:proper_noun
-Клеффнер/MC	st:Клеффнер po:proper_noun
 клиент/K	po:noun
 климакофобия/I	po:noun
 климакс/K	po:noun
@@ -1375,9 +1815,15 @@
 клоунизм/K	po:noun
 клубкообразный/A	po:adjective
 коартивный/A	po:adjective
+когнитивно-бихевиоральный/A	po:adjective
+когнитивно-поведенческий/A	po:adjective
+когнитивный/A	po:adjective
+когнитотропный/A	po:adjective
+когниция/I	po:noun
 кодеинизм/K	po:noun
 кодеиновый/A	po:adjective
 коинофобия/I	po:noun
+коитальный/A	po:adjective
 коитофобия/I	po:noun
 кокаиномания/I	po:noun
 кокцигодиния/I	po:noun
@@ -1385,34 +1831,52 @@
 коллаптоидный/A	po:adjective
 коллективистический/A	po:adjective
 коллекциомания/I	po:noun
+комбатант/K	po:noun
 комиссуральный/A	po:adjective
 коммаскуляция/I	po:noun
 коммоциональный/A	po:adjective
 коммоционный/A	po:adjective
 коммоция/I	po:noun
 коморбидность/N	po:noun
+коморбидный/A	po:adjective
 компенсаторный/A	po:adjective
+комплаенс/K	po:noun
+комплаенс-терапия/I	po:noun
+комплаентность/N	po:noun
 комплемент/K	po:noun
 компликация/I	po:noun
+компульсивность/N	po:noun
 компульсивный/A	po:adjective
 компульсия/I	po:noun
+конативный/A	po:adjective
 конвекситальный/A	po:adjective
 конвекситатный/A	po:adjective
 конвергирующий/A	po:adjective
 конверсивный/A	po:adjective
+конверсионный/A	po:adjective
 конвульсант/K	po:noun
 конградный/A	po:adjective
+конгруэнтный/A	po:adjective
+конгруэнция/I	po:noun
 кондиционализм/K	po:noun
+конкордантный/A	po:adjective
+коннективность/N	po:noun
 констелляция/I	po:noun
 конституировать/V	po:verb
+конституционально-наследственный/A	po:adjective
 конституциональный/A	po:adjective
+конструкт/K	po:noun
 контактируемый/A	po:adjective
 контаминироваться/W	po:verb
+континуальность/N	po:noun
+континуальный/A	po:adjective
 континуум/K	po:noun
 конторсия/I	po:noun
 контрактивный/A	po:adjective
 контрактура/I	po:noun
+контралатеральный/A	po:adjective
 контрапунктирность/N	po:noun
+контрастирование/K	po:noun
 контрафобический/A	po:adjective
 контрафобия/I	po:noun
 контрлатеральный/A	po:adjective
@@ -1433,42 +1897,60 @@
 копрофагия/I	po:noun
 копрофемия/I	po:noun
 копрофилия/I	po:noun
+копулятивный/A	po:adjective
 коразол/K	po:noun
+корково-стволовой/A	po:adjective
 корковый/A	po:adjective
 корнеальный/A	po:adjective
 коронарный/A	po:adjective
+короткоимпульсный/A	po:adjective
+коротколатентный/A	po:adjective
 корофилия/I	po:noun
+коррекционно-педагогический/A	po:adjective
+коррекционный/A	po:adjective
 коррелят/K	po:noun
 корригирование/K	po:noun
 корригированный/A	po:adjective
+корригирующий/A	po:adjective
 корругатор/K	po:noun
-Корсаков/MC	st:Корсаков po:proper_noun
 корсаковоподобный/A	po:adjective
 корсаковский/A	po:adjective
+кортекс/K	po:noun
 кортизол/K	po:noun
 кортизоловый/A	po:adjective
+кортикобазальный/A	po:adjective
 кортиколиберин/K	po:noun
 кортиконуклеарный/A	po:adjective
+кортикоспинальный/A	po:adjective
 кортикостероидный/A	po:adjective
-Котар/MC	st:Котар po:proper_noun
+кортикостероидсвязывающий/A	po:adjective
 коулрофобия/I	po:noun
 кофеинизм/K	po:noun
 кофеиномания/I	po:noun
 кофеинофагия/I	po:noun
 кофетамин/K	po:noun
-КПТ/C	po:abbr exp:когнитивно-поведенческая терапия
+кохлеарный/A	po:adjective
+коэнестезиопатический/A	po:adjective
+коэнестезиопатия/I	po:noun
 крампи	po:noun
 краниопатия/I	po:noun
 краниостеноз/K	po:noun
 краниостоз/K	po:noun
 краниофарингеома/I	po:noun
+краниофарингиома/I	po:noun
 краниоцефальный/A	po:adjective
-Крейтцфельдт/MC	st:Крейтцфельдт po:proper_noun
-Крепелин/MC	st:Крепелин po:proper_noun
+креативный/A	po:adjective
+креатинин/K	po:noun
+креатинфосфокиназа/I	po:noun
+крейвинг/K	po:noun
+кремастерный/A	po:adjective
+крепелиновский/A	po:adjective
 кретиноид/K	po:noun
-Кречмер/MC	st:Кречмер po:proper_noun
+кризовой/A	po:adjective
+криминализация/I	po:noun
 криминогенность/N	po:noun
 криминофобия/I	po:noun
+криодеструкция/I	po:noun
 криптогенный/A	po:adjective
 криптолалия/I	po:noun
 криптомнезия/I	po:noun
@@ -1476,15 +1958,18 @@
 кроцидизм/K	po:noun
 круглоклеточный/A	po:adjective
 круомания/I	po:noun
-Крюгер/MC	st:Крюгер po:proper_noun
+крупноразмашистый/A	po:adjective
+крэк/K	po:noun
+ксантинол/K	po:noun
 ксантопсия/I	po:noun
 ксантохромия/I	po:noun
 ксенолалия/I	po:noun
 ксенопатический/A	po:adjective
 ксеродермический/A	po:adjective
 ксеродермия/I	po:noun
-КТ/C	po:abbr exp:компьютерная томография
+ксеростомия/I	po:noun
 ктиномания/I	po:noun
+кубитальный/A	po:adjective
 кубомания/I	po:noun
 куклотерапия/I	po:noun
 культтерапия/I	po:noun
@@ -1492,44 +1977,55 @@
 куннилингус/K	po:noun
 купание/K	po:noun
 купироваться/W	po:verb
+купирующий/A	po:adjective
 курабельность/N	po:noun
 курабельный/A	po:adjective
 кушингоидный/A	po:adjective
+лабильно-континуальный/A	po:adjective
 лабиринтит/K	po:noun
 лабораторный/A	po:adjective
 ладиомил/K	po:noun
 лактотерапия/I	po:noun
+лактотропный/A	po:adjective
+лактотроф/K	po:noun
+лалия/I	po:noun
 лалоневроз/K	po:noun
 лалофобия/I	po:noun
 ламбда/I	po:noun
 ламбдацизм/K	po:noun
 ламотриджин/K	po:noun
-Ландау/C	st:Ландау po:proper_noun
 ларвированный/A	po:adjective
 ларингизм/K	po:noun
+латерализационный/A	po:adjective
+латерализация/I	po:noun
 латерализованный/A	po:adjective
 латеральный/A	po:adjective
 латеропульсия/I	po:noun
 латерофобия/I	po:noun
-ЛГ/C	po:abbr exp:лютеинизирующий гормон
 леветирацетам/K	po:noun
+леводопа/I	po:noun
+левокарнитин/K	po:noun
+леволатерализованный/A	po:adjective
 левомепромазин/K	po:noun
 левомилнаципран/K	po:noun
 левшество/K	po:noun
 легастения/I	po:noun
 легковнушаемый/A	po:adjective
+лейкоареоз/K	po:noun
 лейкодермия/I	po:noun
 лейкодистрофический/A	po:adjective
 лейкодистрофия/I	po:noun
 лейкопатия/I	po:noun
 лейкотомия/I	po:noun
 лейкоэнцефалит/K	po:noun
+лейкоэнцефалопатия/I	po:noun
 лейциноз/K	po:noun
 лемборексант/K	po:noun
 лентикулярный/A	po:adjective
-Леонгард/MC	st:Леонгард po:proper_noun
 лепрофобия/I	po:noun
 лептин/K	po:noun
+лептоид/K	po:noun
+лептоидный/A	po:adjective
 лептоменингит/K	po:noun
 лептосом/K	po:noun
 лептосомный/A	po:adjective
@@ -1537,14 +2033,21 @@
 лечение/K	po:noun
 либидинизация/I	po:noun
 либидинозный/A	po:adjective
+либидозный/A	po:adjective
 либидонозный/A	po:adjective
 либропсихопедия/I	po:noun
+лидокаин/K	po:noun
 лиздексамфетамин/K	st:лиздексамфетамин po:noun
 ликантропия/I	po:noun
 ликвор/K	po:noun
+ликворный/A	po:adjective
+ликвородинамика/I	po:noun
+ликвородинамический/A	po:adjective
+ликворопроводящий/A	po:adjective
 ликворрея/I	po:noun
 ликорексия/I	po:noun
 лилипутия/I	po:noun
+лимбический/A	po:adjective
 лимфоидный/A	po:adjective
 липалгия/I	po:noun
 липемания/I	po:noun
@@ -1552,6 +2055,8 @@
 липоидный/A	po:adjective
 липоматоз/K	po:noun
 липотимия/I	po:noun
+липофильность/N	po:noun
+липофильный/A	po:adjective
 липофобия/I	po:noun
 липохондродистрофия/I	po:noun
 лиссофобия/I	po:noun
@@ -1559,7 +2064,12 @@
 литеральный/A	po:adjective
 литиотерапия/I	po:noun
 литический/A	po:adjective
+личностный/A	po:adjective
 лобарный/A	po:adjective
+лобно-базальный/A	po:adjective
+лобно-височный/A	po:adjective
+лобно-исполнительский/A	po:adjective
+лобно-подкорковый/A	po:adjective
 лобэктомия/I	po:noun
 логагнозия/I	po:noun
 логастения/I	po:noun
@@ -1567,37 +2077,46 @@
 логоневроз/K	po:noun
 логопатия/I	po:noun
 логорея/I	po:noun
+логоритмика/I	po:noun
 логотерапия/I	po:noun
 логофобия/I	po:noun
+ложноотрицательный/A	po:adjective
+ложноположительный/A	po:adjective
 локализационизм/K	po:noun
+локализационный/A	po:adjective
 локомоторный/A	po:adjective
+локсапин/K	po:noun
+локус/K	po:noun
+локус-специфичный/A	po:adjective
 ломброзианство/K	po:noun
 лонгосомния/I	po:noun
 лоразепам/K	po:noun
-ЛПВП/C	po:abbr exp:липопротеины высокой плотности
-ЛПНП/C	po:abbr exp:липопротеины низкой плотности
-ЛС/C	po:abbr exp:лекарственное средство
-ЛТ/C	po:abbr exp:лазеротерапия
+лордиазепоксид/K	po:noun
+лудомания/I	po:noun
 луматеперон/K	po:noun
 луноподобный/A	po:adjective
 луразидон/K	po:noun
-ЛЭ/C	po:abbr exp:лейкоцитарная эластаза
-Лэйнг/MC	st:Лэйнг po:proper_noun
+любовно-сексуальный/A	po:adjective
+любрикация/I	po:noun
 людотерапия/I	po:noun
 люмбальный/A	po:adjective
 люофобия/I	po:noun
 люцидный/A	po:adjective
-Люшер/MC	st:Люшер po:proper_noun
-М-ЭхоЭГ/C	po:abbr exp:ультразвуковая эхо-энцефалография
+м-холинорецептор/K	po:noun
+магифренизация/I	po:noun
 магифренический/A	po:adjective
 магифрения/I	po:noun
+магнитоэнцефалография/I	po:noun
 магницидиум/K	po:noun
+мазохистический/A	po:adjective
+макроаденома/I	po:noun
 макроакузия/I	po:noun
 макрогаллюцинация/I	po:noun
 макрогенитосомия/I	po:noun
 макрогирия/I	po:noun
 макроглоссия/I	po:noun
 макродактилия/I	po:noun
+макропролактинома/I	po:noun
 макропсихический/A	po:adjective
 макропсия/I	po:noun
 макроптический/A	po:adjective
@@ -1606,39 +2125,48 @@
 макроцефалия/I	po:noun
 макроэстезия/I	po:noun
 макула/I	po:noun
+малоадаптивный/A	po:adjective
 малоамплитудный/A	po:adjective
 малоинициативный/A	po:adjective
 малоконформный/A	po:adjective
+малокурабельность/N	po:noun
 малообратимый/A	po:adjective
 малопрогредиентный/A	po:adjective
+малосимптомный/A	po:adjective
 малотоксичный/A	po:adjective
 малоценность/N	po:noun
+мальформация/I	po:noun
 маляриотерапия/I	po:noun
+мамиллярный/A	po:adjective
+маниакально-бредовый/A	po:adjective
+маниакально-депрессивный/A	po:adjective
 маниакальноподобный/A	po:adjective
 маниофобия/I	po:noun
 маниоформный/A	po:adjective
 манипулятивность/N	po:noun
+манипулятивный/A	po:adjective
 манипуляционный/A	po:adjective
 манифестирование/K	po:noun
 манифестный/A	po:adjective
 манихеизм/K	po:noun
 манихейский/A	po:adjective
 мантизм/K	po:noun
-МАО/C	po:abbr exp:моноаминоксидаза
 мапротилин/K	po:noun
 марантический/A	po:adjective
 маскинг/K	po:noun
 маскообразность/N	po:noun
+маскообразный/A	po:adjective
 маскотерапия/I	po:noun
 маскулинизация/I	po:noun
 маскулинизм/K	po:noun
+маскулинность/N	po:noun
 масталгия/I	po:noun
 мастикаторный/A	po:adjective
 мастодиния/I	po:noun
+мастурбаторный/A	po:adjective
 мастурбационный/A	po:adjective
 матронизм/K	po:noun
 махленомания/I	po:noun
-МДП/C	po:abbr exp:маниакально-депрессивный психоз
 мебикар/K	po:noun
 мебутамат/K	po:noun
 мегаколон/K	po:noun
@@ -1648,28 +2176,54 @@
 мегалопия/I	po:noun
 мегалопсия/I	po:noun
 медазепам/K	po:noun
+медиально-фронтальный/A	po:adjective
 медиальный/A	po:adjective
+медиаторный/A	po:adjective
+медиобазальный/A	po:adjective
+медиотемпоральный/A	po:adjective
+медиофронтальный/A	po:adjective
+медленноволновый/A	po:adjective
 медленнотекущий/A	po:adjective
 медуна/I	po:noun
+межжелудочковый/A	po:adjective
+межкрючковый/A	po:adjective
+межнейрональный/A	po:adjective
+межпароксизмальный/A	po:adjective
 межперсональный/A	po:adjective
+межполовой/A	po:adjective
 межполушарный/A	po:adjective
+межпоходовый/A	po:adjective
 межприпадочный/A	po:adjective
 межприступный/A	po:adjective
+межсинаптический/A	po:adjective
 межуточный/A	po:adjective
+межэякуляторный/A	po:adjective
+мезалимбический/A	po:adjective
 мезапам/K	po:noun
 мезембрин/K	po:noun
 мезенцефальный/A	po:adjective
 мезокарб/K	po:noun
+мезокортикальный/A	po:adjective
+мезокортиколимбический/A	po:adjective
+мезолимбический/A	po:adjective
+мезолимбокортикальный/A	po:adjective
 мезэнцефалон/K	po:noun
 мезэнцефальный/A	po:adjective
 меконизм/K	po:noun
 меланодермия/I	po:noun
+меланокортиновый/A	po:adjective
 меланхолия/I	po:noun
+мелатонин/K	po:noun
+мелатонинергический/A	po:adjective
+мелатониновый/A	po:adjective
 мелипрамин/K	po:noun
 мелиссофобия/I	po:noun
 мелкоклеточный/A	po:adjective
+мемантин/K	po:noun
+мембранопротекторный/A	po:adjective
 менингеальный/A	po:adjective
 менингизм/K	po:noun
+менингиома/I	po:noun
 менингит/K	po:noun
 менингитический/A	po:adjective
 менингоэнцефалит/K	po:noun
@@ -1678,6 +2232,7 @@
 меностаз/K	po:noun
 менофобия/I	po:noun
 менструальноподобный/A	po:adjective
+ментализационный/A	po:adjective
 ментализация/I	po:noun
 ментизм/K	po:noun
 мепробамат/K	po:noun
@@ -1689,6 +2244,8 @@
 мескалин/K	po:noun
 мескалиновый/A	po:adjective
 местеролон/K	po:noun
+метаботропный/A	po:adjective
+метадон/K	po:noun
 метакарциноматозный/A	po:adjective
 метакогнитивный/A	po:adjective
 металлофобия/I	po:noun
@@ -1699,11 +2256,16 @@
 метасифилитический/A	po:adjective
 метатравматический/A	po:adjective
 метемпсихотический/A	po:adjective
+метеопатический/A	po:adjective
 метеразин/K	po:noun
+метилдиазепам/K	po:noun
+метилдофа/I	po:noun
+метилендиоксиметамфетамин/K	po:noun
 метилкофеин/K	po:noun
 метилфенидат/K	po:noun
 метиндион/K	po:noun
 метитепин/K	po:noun
+меткатинон/K	po:noun
 метофеназат/K	po:noun
 метралиндол/K	po:noun
 метронидазол/K	po:noun
@@ -1712,13 +2274,17 @@
 мефеноксалон/K	po:noun
 механорецептор/K	po:noun
 мечтательство/K	po:noun
+миалгия/I	po:noun
 миансерин/K	po:noun
+мигренеподобный/A	po:adjective
 мигренический/A	po:adjective
 мигренозный/A	po:adjective
 мидазолам/K	po:noun
 мидокалм/K	po:noun
 мидриаз/K	po:noun
 миелинизация/I	po:noun
+миелиновый/A	po:adjective
+миелинолиз/K	po:noun
 мизандрия/I	po:noun
 мизогамия/I	po:noun
 мизогения/I	po:noun
@@ -1727,33 +2293,46 @@
 мизопедия/I	po:noun
 мизофобия/I	po:noun
 мийодезопсия/I	po:noun
+микроаденома/I	po:noun
 микробазия/I	po:noun
 микробрахицефалия/I	po:noun
+микроваскулярный/A	po:adjective
+микрогеморрагия/I	po:noun
 микрогирия/I	po:noun
+микроглиальный/A	po:adjective
 микрогнатия/I	po:noun
 микрография/I	po:noun
+микрогумма/I	po:noun
 микродактилия/I	po:noun
+микроинсульт/K	po:noun
 микрокория/I	po:noun
 микроманический/A	po:adjective
 микромания/I	po:noun
 микрометод/K	po:noun
 микронекроз/K	po:noun
+микропролактинома/I	po:noun
 микропсихоз/K	po:noun
 микропсический/A	po:adjective
 микропсия/I	po:noun
 микроптический/A	po:adjective
 микросомия/I	po:noun
 микросоциальный/A	po:adjective
+микросоциум/K	po:noun
 микросреда/I	po:noun
 микросредовой/A	po:adjective
 микротелеакузия/I	po:noun
 микротелеопсия/I	po:noun
 микротравматизация/I	po:noun
 микрофония/I	po:noun
+микроциркуляторный/A	po:adjective
+микроциркуляция/I	po:noun
+микроэмбол/K	po:noun
+микроэмболия/I	po:noun
 микроэстезия/I	po:noun
 микседематозный/A	po:adjective
 миксеофобия/I	po:noun
 миксоскопия/I	po:noun
+милливольтный/A	po:adjective
 милнаципран/K	po:noun
 мимический/A	po:adjective
 мимоговорение/K	po:noun
@@ -1769,79 +2348,131 @@
 миоклонус/K	po:noun
 миоплегия/I	po:noun
 миопсихия/I	po:noun
+миорелаксант/K	po:noun
+миорелаксантный/A	po:adjective
 миорелаксация/I	po:noun
 миорелаксирующий/A	po:adjective
 миоритмия/I	po:noun
 миотрофия/I	po:noun
+мипрамин/K	po:noun
 миртазапин/K	po:noun
 митигированный/A	po:adjective
+митохондриальный/A	po:adjective
+мифоман/K	po:noun
 мифоманический/A	po:adjective
 мифомания/I	po:noun
-МКБ-11/C	po:abbr exp:Международная классификация болезней 11-го пересмотра
+мнемический/A	po:adjective
+мнемотропный/A	po:adjective
 мнестический/A	po:adjective
 многовекторный/A	po:adjective
+многоосевой/A	po:adjective
+многоочаговый/A	po:adjective
 многописательство/K	po:noun
+многосрезовый/A	po:adjective
+многофакторность/N	po:noun
+многоциклический/A	po:adjective
 множественный/A	po:adjective
 могилалия/I	po:noun
+модальность/N	po:noun
 модафинил/K	po:noun
 модитен/K	po:noun
+мозаицизм/K	po:noun
+мозгоспецифический/A	po:adjective
 мозжечковый/A	po:adjective
 моклобемид/K	po:noun
 мокса/I	po:noun
 молиндон/K	po:noun
+моноамин/K	po:noun
+моноаминергический/A	po:adjective
+моноаминовый/A	po:adjective
 моноаминоксидаза/I	po:noun
 моноамины/K	po:noun
+моновариантный/A	po:adjective
+монозиготный/A	po:adjective
 моноидеизм/K	po:noun
 монолатеральный/A	po:adjective
+мономанический/A	po:adjective
+мономорфность/N	po:noun
+мономорфный/A	po:adjective
+мономотивированный/A	po:adjective
 мононевроз/K	po:noun
 моноплегия/I	po:noun
 монополярность/N	po:noun
 моносексуальный/A	po:adjective
 моносимптом/K	po:noun
 моносимптоматический/A	po:adjective
+моносомия/I	po:noun
 монотематический/A	po:adjective
+монотерапия/I	po:noun
 монофагия/I	po:noun
 монофазный/A	po:adjective
 монофобия/I	po:noun
+моноциклический/A	po:adjective
+морбидный/A	po:adjective
+мориоподобный/A	po:adjective
 мория/I	po:noun
 морфинный/A	po:adjective
 морфинофобия/I	po:noun
 морфодисплазия/I	po:noun
+морфометрический/A	po:adjective
+морфометрия/I	po:noun
+морфофобический/A	po:adjective
 морфофункциональный/A	po:adjective
 мотивационный/A	po:adjective
+мотивирование/K	po:noun
 мотивируемый/A	po:adjective
 мотилитетневроз/K	po:noun
+мотимик/K	po:noun
 мотонейрон/K	po:noun
 моторный/A	po:adjective
 мочевыводящий/A	po:adjective
-МР/C	po:abbr exp:магнитно-резонансный
-МРС/C	po:abbr exp:магнитно-резонансная спектроскопия
-МРТ/C	po:abbr exp:магнитно-резонансная томография
-МС/C	po:abbr exp:метаболический синдром
+мощностный/A	po:adjective
 музыкогенный/A	po:adjective
 музыколепсия/I	po:noun
 мукополисахаридоз/K	po:noun
+мультивоксельный/A	po:adjective
 мультидименсиональный/A	po:adjective
+мультидисциплинарный/A	po:adjective
+мультиинфарктный/A	po:adjective
+мультимодальность/N	po:noun
+мультимодальный/A	po:adjective
+мультимоноаминовый/A	po:adjective
+мультиоргазм/K	po:noun
+мультирецепторный/A	po:adjective
+мультисистемный/A	po:adjective
+мультиспиральный/A	po:adjective
 мультифакториальный/A	po:adjective
+мультифакторный/A	po:adjective
+мультифокальный/A	po:adjective
+мультиформный/A	po:adjective
 мускаринизм/K	po:noun
+мускариновый/A	po:adjective
 мусситирующий/A	po:adjective
 мутизм/K	po:noun
 мутичный/A	po:adjective
 мучительство/K	po:noun
 мыслительный/A	po:adjective
 мышечный/A	po:adjective
-МЭГ/C	po:abbr exp:магнитоэнцефалография
-Мюнхгаузен/MC	st:Мюнхгаузен po:proper_noun
 навязчивость/N	po:noun
 нагрубение/K	po:noun
 нагружаемость/N	po:noun
 надкраевой/A	po:adjective
 надпочечниковый/A	po:adjective
+надсегментарный/A	po:adjective
+надтенториальный/A	po:adjective
+надъядерный/A	po:adjective
 наитие/K	po:noun
+налмефен/K	po:noun
+налоксон/K	po:noun
+налорфин/K	po:noun
+налтрексон/K	po:noun
 нанизм/K	po:noun
 наносомия/I	po:noun
 наркоанализ/K	po:noun
+наркогенность/N	po:noun
+наркогенный/A	po:adjective
 наркогипноз/K	po:noun
+наркозависимый/A	po:adjective
 наркокатарсис/K	po:noun
 нарколепсия/I	po:noun
 нарколептический/A	po:adjective
@@ -1854,7 +2485,6 @@
 наркоэлектрошок/K	po:noun
 нарциссизм/K	po:noun
 нарциссический/A	po:adjective
-НГП/C	po:abbr exp:нейролептическая гиперпролактинемия
 неадаптивный/A	po:adjective
 неафатический/A	po:adjective
 небредовый/A	po:adjective
@@ -1863,65 +2493,154 @@
 невольность/N	po:noun
 невоспалительный/A	po:adjective
 невосприятие/K	po:noun
+невралгия/I	po:noun
 неврастеноподобный/A	po:adjective
+неврит/K	po:noun
+неврогенный/A	po:adjective
+невроз/K	po:noun
+неврозогенез/K	po:noun
 неврозогенный/A	po:adjective
 неврозодиагностика/I	po:noun
+неврозологический/A	po:adjective
 неврозоподобный/A	po:adjective
+неврозоустойчивый/A	po:adjective
 неврологический/A	po:adjective
 невропатический/A	po:adjective
 невропатия/I	po:noun
+невропатология/I	po:noun
+невропсихиатрический/A	po:adjective
+невропсихиатрия/I	po:noun
+невротизация/I	po:noun
+невротизм/K	po:noun
 невротический/A	po:adjective
 невротоид/K	po:noun
 невыводимый/A	po:adjective
 невыделение/K	po:noun
 невыносливость/N	po:noun
+негативизм/K	po:noun
 негативистический/A	po:adjective
 негативистский/A	po:adjective
 недирективный/A	po:adjective
 недифференцированный/A	po:adjective
+недобровольный/A	po:adjective
 недоминантный/A	po:adjective
+недоношенность/N	po:noun
 незавершенный/A	po:adjective
 незавершённый/A	po:adjective
+незрелость/N	po:noun
 неигровой/A	po:adjective
 неиндифферентный/A	po:adjective
+нейральный/A	po:adjective
+нейроанатомия/I	po:noun
+нейробиология/I	po:noun
 нейробруцеллез/K	po:noun
 нейроваскулярный/A	po:adjective
 нейровегетативный/A	po:adjective
+нейровизуализационный/A	po:adjective
+нейровизуализация/I	po:noun
+нейровизуальный/A	po:adjective
+нейровирусный/A	po:adjective
 нейровоспаление/K	po:noun
 нейрогенез/K	po:noun
 нейрогенетика/I	po:noun
+нейрогериатрия/I	po:noun
 нейрогигиена/I	po:noun
+нейрогистологический/A	po:adjective
 нейроглиома/I	po:noun
 нейрогормон/K	po:noun
+нейрогормональный/A	po:adjective
+нейродегенеративный/A	po:adjective
+нейродегенерация/I	po:noun
 нейродинамический/A	po:adjective
+нейроиммунный/A	po:adjective
+нейроинтоксикация/I	po:noun
+нейроинфекционный/A	po:adjective
 нейроинфекция/I	po:noun
 нейрокогнитивный/A	po:adjective
+нейрокогниция/I	po:noun
 нейрокожный/A	po:adjective
 нейролептик/K	po:noun
+нейролитический/A	po:adjective
+нейрологический/A	po:adjective
 нейролюэс/K	po:noun
 нейромедиатор/K	po:noun
+нейромедиаторный/A	po:adjective
+нейрометаболик/K	po:noun
+нейрометаболический/A	po:adjective
 нейромимезия/I	po:noun
 нейромиопатия/I	po:noun
+нейроморфологический/A	po:adjective
+нейроморфология/I	po:noun
+нейронавигация/I	po:noun
+нейрональный/A	po:adjective
+нейронаука/I	po:noun
+нейронспецифический/A	po:adjective
+нейроонкологический/A	po:adjective
+нейроонкология/I	po:noun
 нейроонтогенетический/A	po:adjective
 нейроотличие/K	po:noun
+нейропатологический/A	po:adjective
+нейропатология/I	po:noun
 нейропептид/K	po:noun
+нейропептидный/A	po:adjective
+нейропередача/I	po:noun
+нейроплазма/I	po:noun
+нейропластический/A	po:adjective
 нейропластичность/N	po:noun
 нейроплегик/K	po:noun
+нейропротективный/A	po:adjective
+нейропротектор/K	po:noun
+нейропротекторный/A	po:adjective
+нейропротекция/I	po:noun
+нейропсихиатрический/A	po:adjective
+нейропсихиатрия/I	po:noun
+нейропсихический/A	po:adjective
+нейропсихолог/K	po:noun
 нейропсихологический/A	po:adjective
+нейропсихология/I	po:noun
+нейропсихофармакотерапия/I	po:noun
+нейрорадиология/I	po:noun
 нейроразнообразие/K	po:noun
+нейрореабилитация/I	po:noun
+нейрореаниматология/I	po:noun
+нейрорентгенологический/A	po:adjective
+нейрорентгенология/I	po:noun
+нейрорецептор/K	po:noun
 нейрорецепторный/A	po:adjective
+нейророботика/I	po:noun
 нейросифилис/K	po:noun
 нейроспонгиобластоз/K	po:noun
 нейростероид/K	po:noun
+нейростимулятор/K	po:noun
+нейроструктура/I	po:noun
 нейротензин/K	po:noun
 нейротизм/K	po:noun
 нейротипичность/N	po:noun
 нейротипичный/A	po:adjective
+нейротоксикоз/K	po:noun
+нейротоксический/A	po:adjective
+нейротравматологический/A	po:adjective
+нейротравматология/I	po:noun
+нейротрансмиссия/I	po:noun
 нейротрансмиттер/K	po:noun
+нейротрансмиттерный/A	po:adjective
+нейротрансплантация/I	po:noun
+нейротропность/N	po:noun
+нейротрофин/K	po:noun
+нейротрофиновый/A	po:adjective
 нейротрофический/A	po:adjective
+нейрофармакологический/A	po:adjective
+нейроферритин/K	po:noun
+нейрофибрилла/I	po:noun
+нейрофибриллярный/A	po:adjective
 нейрофиброма/I	po:noun
 нейрофиброматоз/K	po:noun
+нейрофиламент/K	po:noun
+нейрофункциональный/A	po:adjective
+нейрохимический/A	po:adjective
+нейроциркуляторный/A	po:adjective
 нейроцитоархитектоника/I	po:noun
+нейроэктодермальный/A	po:adjective
 неконформность/N	po:noun
 некоординированный/A	po:adjective
 некорригируемый/A	po:adjective
@@ -1983,9 +2702,12 @@
 нераспознание/K	po:noun
 нераспознанный/A	po:adjective
 нерасчлененный/A	po:adjective
+нервно-мышечный/A	po:adjective
+нервно-психический/A	po:adjective
 нерегрессивный/A	po:adjective
 нерезкий/A	po:adjective
 нерекомендуемый/A	po:adjective
+неречевой/A	po:adjective
 неробол/K	po:noun
 несахарный/A	po:adjective
 несистематизированный/A	po:adjective
@@ -1994,6 +2716,7 @@
 несмертельный/A	po:adjective
 несмыкание/K	po:noun
 несознаваемый/A	po:adjective
+несоциализированный/A	po:adjective
 несочетающийся/A	po:adjective
 неспецифический/A	po:adjective
 нестандартизированный/A	po:adjective
@@ -2005,32 +2728,44 @@
 нетяжёлый/A	po:adjective
 неудержание/K	po:noun
 неудовлетворенный/A	po:adjective
+неудовлетворённый/A	po:adjective
 неузнавание/K	po:noun
 неупотребительный/A	po:adjective
 нефрит/K	po:noun
 нефроз/K	po:noun
+нехимический/A	po:adjective
 нецеленаправленный/A	po:adjective
 неэпилептический/A	po:adjective
 ниаламид/K	po:noun
 ниамид/K	po:noun
 нигилистический/A	po:adjective
+нигростриальный/A	po:adjective
+нижнелобный/A	po:adjective
+нижнемедиальный/A	po:adjective
+нижнестволовой/A	po:adjective
 нижнетеменный/A	po:adjective
 низкоамплитудный/A	po:adjective
+низкопотентный/A	po:adjective
 никотинизм/K	po:noun
 никталгия/I	po:noun
 никталопия/I	po:noun
 никтопедия/I	po:noun
 никтосуггестия/I	po:noun
 никтофобия/I	po:noun
+нимодипин/K	po:noun
 нимфоманический/A	po:adjective
 нистагмоид/K	po:noun
 нистагмоидный/A	po:adjective
 нитразепам/K	po:noun
+ницерголин/K	po:noun
 новолатинский/A	po:adjective
 нозепам/K	po:noun
+нозогения/I	po:noun
+нозогенный/A	po:adjective
 нозографический/A	po:adjective
 нозологический/A	po:adjective
 нозоморфоз/K	po:noun
+нозотропный/A	po:adjective
 нозофилия/I	po:noun
 нозофобический/A	po:adjective
 нозофобия/I	po:noun
@@ -2039,6 +2774,8 @@
 ноогенный/A	po:adjective
 ноопсихика/I	po:noun
 ноотроп/K	po:noun
+ноотропный/A	po:adjective
+норадреналиновый/A	po:adjective
 норадренергический/A	po:adjective
 нордазепам/K	po:noun
 нормология/I	po:noun
@@ -2048,18 +2785,19 @@
 нормотимический/A	po:adjective
 нортриптилин/K	po:noun
 норэпинефрин/K	po:noun
+ноцебо	po:noun
 ноцицептивный/A	po:adjective
-НПН/C	po:abbr exp:нервно-психическая неустойчивость
-НРЛ/C	po:abbr exp:нарциссическое расстройство личности
-НСПВ/C	po:abbr exp:наркотические средства и психотропные вещества
-НЭД/C	po:abbr exp:нейроэндокринные дисфункции
+ноцицептор/K	po:noun
+нутрентофобия/I	po:noun
 обезболивание/K	po:noun
 обезображиваемый/A	po:adjective
 обесхлоривание/K	po:noun
-ОБМ/C	po:abbr exp:основной белок миелина
 обнубиляция/I	po:noun
+обонятельно-вкусовой/A	po:adjective
+обсессивно-компульсивный/A	po:adjective
 обсессивный/A	po:adjective
 обсессия/I	po:noun
+обусловливание/K	po:noun
 общемедицинский/A	po:adjective
 общемозговой/A	po:adjective
 общепатологический/A	po:adjective
@@ -2071,7 +2809,6 @@
 оговор/K	po:noun
 одинакузия/I	po:noun
 одонтофобия/I	po:noun
-ОКР/C	po:abbr exp:обсессивно-компульсивное расстройство
 окрашенность/N	po:noun
 оксазепам/K	po:noun
 оксибутират/K	po:noun
@@ -2079,6 +2816,7 @@
 оксиосмия/I	po:noun
 окскарбазепин/K	po:noun
 окулогирический/A	po:adjective
+окулогирный/A	po:adjective
 окулодиэнцефальный/A	po:adjective
 окулоклонический/A	po:adjective
 окуломоторный/A	po:adjective
@@ -2088,7 +2826,9 @@
 оланзапин/K	po:noun
 оливомозгомозжечковый/A	po:adjective
 олигодактилия/I	po:noun
+олигодендроглиома/I	po:noun
 олигодендроглия/I	po:noun
+олигодендроцит/K	po:noun
 олигодипсия/I	po:noun
 олигокинезия/I	po:noun
 олигомания/I	po:noun
@@ -2098,6 +2838,7 @@
 олигофазия/I	po:noun
 олигофренический/A	po:adjective
 олигофрения/I	po:noun
+олигофренный/A	po:adjective
 олигофренопедагогика/I	po:noun
 олигофреноподобный/A	po:adjective
 олигофренопсихопатия/I	po:noun
@@ -2111,6 +2852,7 @@
 онейроид/K	po:noun
 онейроидный/A	po:adjective
 онейрофрения/I	po:noun
+онемение/K	po:noun
 ониомания/I	po:noun
 ониризм/K	po:noun
 онирический/A	po:adjective
@@ -2119,13 +2861,15 @@
 онихотилломания/I	po:noun
 онихофагия/I	po:noun
 онихохейлофагия/I	po:noun
-ОНМК/C	po:abbr exp:острые нарушения мозгового кровообращения
 ономатолалия/I	po:noun
 ономатомания/I	po:noun
 ономатопоэтический/A	po:adjective
-ООД/C	po:abbr exp:общественно опасные действия
+оперантный/A	po:adjective
 оперкулярный/A	po:adjective
 опиат/K	po:noun
+опиатный/A	po:adjective
+опиоид/K	po:noun
+опиоидный/A	po:adjective
 опиокурение/K	po:noun
 опиомания/I	po:noun
 опиофагия/I	po:noun
@@ -2133,14 +2877,16 @@
 опистотонус/K	po:noun
 опосредование/K	po:noun
 опохмеление/K	po:noun
-ОПР/C	po:abbr exp:органические психические расстройства
 опсиматия/I	po:noun
 оптикокинестетический/A	po:adjective
 оптокинетический/A	po:adjective
 оральный/A	po:adjective
+орбитофронтальный/A	po:adjective
+оргазмический/A	po:adjective
 органический/A	po:adjective
 органодинамический/A	po:adjective
 органоневроз/K	po:noun
+органоневротический/A	po:adjective
 оргастичность/N	po:noun
 ормический/A	po:adjective
 оротат/K	po:noun
@@ -2151,6 +2897,7 @@
 ослабоумливающий/A	po:adjective
 осознавание/K	po:noun
 остеопоротичный/A	po:adjective
+островковый/A	po:adjective
 отведение/K	po:noun
 отвлекаемость/N	po:noun
 отвлечение/K	po:noun
@@ -2166,17 +2913,14 @@
 отёчный/A	po:adjective
 офидиофобия/I	po:noun
 офтальмический/A	po:adjective
+офтальмоневрологический/A	po:adjective
 офтальмоплегический/A	po:adjective
 офтальмоплегия/I	po:noun
-ОФЭКТ/C	po:abbr exp:однофотонная эмиссионная компьютерная томография
 охлофобия/I	po:noun
 охранительный/A	po:adjective
-ОЦК/C	po:abbr exp:объём циркулирующей крови
-ОЦП/C	po:abbr exp:объём циркулирующей плазмы
 очаговость/N	po:noun
 очаговоцеребральный/A	po:adjective
 очерченность/N	po:noun
-ПАВ/C	po:abbr exp:психоактивные вещества
 паглюферал/K	po:noun
 пажизм/K	po:noun
 палеофрения/I	po:noun
@@ -2196,6 +2940,7 @@
 палиперидон/K	po:noun
 палланестезия/I	po:noun
 паллестезия/I	po:noun
+паллидотомия/I	po:noun
 паллидум/K	po:noun
 пальпеброспекция/I	po:noun
 паналгический/A	po:adjective
@@ -2253,12 +2998,14 @@
 парасимболия/I	po:noun
 парасимпатикотония/I	po:noun
 парасомния/I	po:noun
+парасуицид/K	po:noun
 паратимия/I	po:noun
 паратимный/A	po:adjective
 паратония/I	po:noun
 парафазия/I	po:noun
 парафатический/A	po:adjective
 парафилия/I	po:noun
+парафильный/A	po:adjective
 парафренический/A	po:adjective
 парафрения/I	po:noun
 парафренный/A	po:adjective
@@ -2277,6 +3024,7 @@
 паркопан/K	po:noun
 пароксетин/K	po:noun
 пароксизмальный/A	po:adjective
+пароксизмоподобный/A	po:adjective
 паронихий/K	po:noun
 паросмия/I	po:noun
 паррицид/K	po:noun
@@ -2304,17 +3052,18 @@
 патопластика/I	po:noun
 патопластический/A	po:adjective
 патоподобный/A	po:adjective
+патопсихолог/K	po:noun
 патопсихологический/A	po:adjective
 патофобия/I	po:noun
 патохарактерологический/A	po:adjective
 патройофобия/I	po:noun
 паукобоязнь/N	po:noun
 пахигирия/I	po:noun
-ПБ/C	po:abbr exp:психиатрическая больница
 педикатор/K	po:noun
 педикация/I	po:noun
 педиофобия/I	po:noun
 педопсихиатрия/I	po:noun
+педофильный/A	po:adjective
 педофобия/I	po:noun
 педункулярный/A	po:adjective
 пейрафобия/I	po:noun
@@ -2326,35 +3075,51 @@
 пенилинкция/I	po:noun
 пентада/I	po:noun
 пентетразол/K	po:noun
+пентиксол/K	po:noun
 пентобарбитал/K	po:noun
 пентотал/K	po:noun
 пенфлуридол/K	po:noun
 пептидергический/A	po:adjective
+перазин/K	po:noun
+первазивный/A	po:adjective
+перверзный/A	po:adjective
 перверсиофобия/I	po:noun
 перверсия/I	po:noun
 перверсность/N	po:noun
 перверсный/A	po:adjective
+первитин/K	po:noun
+первично-корковый/A	po:adjective
+первично-прогрессирующий/A	po:adjective
+перголид/K	po:noun
 перегруппирование/K	po:noun
 передневисочный/A	po:adjective
 передневнутренний/A	po:adjective
 переднемедиальный/A	po:adjective
+переднемозговой/A	po:adjective
 перемежающийся/A	po:adjective
 переубеждение/K	po:noun
 переутомление/K	po:noun
 периаксиальный/A	po:adjective
+периамигдалярный/A	po:adjective
 периартериальный/A	po:adjective
 периваскулярный/A	po:adjective
+перивентрикулярный/A	po:adjective
+перигиппокампальный/A	po:adjective
 периинсулярный/A	po:adjective
+перименопаузальный/A	po:adjective
 периостальный/A	po:adjective
 перициазин/K	po:noun
 пероспирон/K	po:noun
+персеверативный/A	po:adjective
 персевераторный/A	po:adjective
 персеверация/I	po:noun
 персекуторный/A	po:adjective
+персистирование/K	po:noun
 персистирующий/A	po:adjective
 персонология/I	po:noun
 перфекционизм/K	po:noun
 перфеназин/K	po:noun
+перцептивный/A	po:adjective
 пессимум/K	po:noun
 петтофобия/I	po:noun
 пиблокто	po:noun
@@ -2368,13 +3133,18 @@
 пимавансерин/K	po:noun
 пимозид/K	po:noun
 пиназепам/K	po:noun
+пинеалома/I	po:noun
+пинеальный/A	po:adjective
 пипортил/K	po:noun
 пипотиазин/K	po:noun
 пипофезин/K	po:noun
 пипрадрол/K	po:noun
 пиразидол/K	po:noun
 пирамидный/A	po:adjective
+пирацетам/K	po:noun
+пирибедил/K	po:noun
 пиридоксиновый/A	po:adjective
+пиритинол/K	po:noun
 пирлиндол/K	po:noun
 пиролагния/I	po:noun
 пиротерапия/I	po:noun
@@ -2382,20 +3152,19 @@
 пирроксан/K	po:noun
 питиатизм/K	po:noun
 питиатический/A	po:adjective
-ПЛ/C	po:abbr exp:принудительное лечение
 плазмозаменитель/N	po:noun
 планотопокинезия/I	po:noun
+плацебо-контролируемый/A	po:adjective
 плюригландулярный/A	po:adjective
-ПМДР/C	po:abbr exp:предменструальное дисфорическое расстройство
-ПММХ/C	po:abbr exp:принудительные меры медицинского характера
-ПМС/C	po:abbr exp:предменструальный синдром
 пневмовентрикулография/I	po:noun
 пневмоэнцефалография/I	po:noun
 побледнение/K	po:noun
 побудитель/N	po:noun
+поведенческий/A	po:adjective
 поглаживание/K	po:noun
 поглощенность/N	po:noun
 поглощённость/N	po:noun
+поглупение/K	po:noun
 погонофобия/I	po:noun
 погредиентность/N	po:noun
 подкорковый/A	po:adjective
@@ -2416,6 +3185,7 @@
 полигнома/I	po:noun
 полидименсиональный/A	po:adjective
 полидипсия/I	po:noun
+полиморфизм/K	po:noun
 полиморфность/N	po:noun
 полинаркомания/I	po:noun
 полиневрит/K	po:noun
@@ -2423,16 +3193,19 @@
 полиневропатия/I	po:noun
 полиопический/A	po:adjective
 полиопия/I	po:noun
+полипрагмазия/I	po:noun
 полипсевдомелия/I	po:noun
 полисемантизм/K	po:noun
 полисимптомный/A	po:adjective
 полисиндром/K	po:noun
 полисклероз/K	po:noun
 полисклеротический/A	po:adjective
+полисомнография/I	po:noun
 политематический/A	po:adjective
 политрихия/I	po:noun
 полиурия/I	po:noun
 полифазия/I	po:noun
+полифармакотерапия/I	po:noun
 полифразия/I	po:noun
 полифрения/I	po:noun
 полицитемия/I	po:noun
@@ -2440,21 +3213,27 @@
 поллакигипния/I	po:noun
 поллакиурия/I	po:noun
 поллюционизм/K	po:noun
+полоролевой/A	po:adjective
 полукретин/K	po:noun
 полулунный/A	po:adjective
 полусибс/K	po:noun
 полустандартизированный/A	po:adjective
 полустационар/K	po:noun
+полустационарный/A	po:adjective
 полюсность/N	po:noun
+помрачение/K	po:noun
 помраченный/A	po:adjective
 помрачённый/A	po:adjective
 понопатия/I	po:noun
+понтобульбарный/A	po:adjective
 поперечнополосатый/A	po:adjective
+поперхивание/K	po:noun
 пориомания/I	po:noun
 порнографомания/I	po:noun
 порозный/A	po:adjective
 порропсия/I	po:noun
 порфириновый/A	po:adjective
+порфирия/I	po:noun
 порэнцефалия/I	po:noun
 послеинсультный/A	po:adjective
 послеприпадочный/A	po:adjective
@@ -2465,10 +3244,19 @@
 постгипноплегия/I	po:noun
 постгипнотический/A	po:adjective
 постделириозный/A	po:adjective
+постиктальный/A	po:adjective
 постинфекционный/A	po:adjective
+посткоитальный/A	po:adjective
+посткоммоционный/A	po:adjective
+постконтузионный/A	po:adjective
+постменопауза/I	po:noun
+постнатальный/A	po:adjective
 постпароксизмальный/A	po:adjective
+постприпадочный/A	po:adjective
+постприступный/A	po:adjective
 постпроцессуальный/A	po:adjective
 постпсихотический/A	po:adjective
+постпубертатный/A	po:adjective
 постреактивный/A	po:adjective
 построландовый/A	po:adjective
 постсимуляция/I	po:noun
@@ -2476,13 +3264,15 @@
 постсомнический/A	po:adjective
 постуральный/A	po:adjective
 постцентральный/A	po:adjective
+постшизофренический/A	po:adjective
 постшизофренный/A	po:adjective
 постэмотивный/A	po:adjective
 постэнцефалитический/A	po:adjective
+постэнцефалитный/A	po:adjective
 потамофобия/I	po:noun
 потатор/K	po:noun
+потенциалзависимый/A	po:adjective
 потенцировать/V	po:verb
-ППР/C	po:abbr exp:повлёкший психическое расстройство
 правшество/K	po:noun
 прагматамнезия/I	po:noun
 празепам/K	po:noun
@@ -2491,15 +3281,22 @@
 преагональный/A	po:adjective
 преаксиальный/A	po:adjective
 превентивный/A	po:adjective
+превенция/I	po:noun
 прегабалин/K	po:noun
 прегипноплегия/I	po:noun
+предболезненный/A	po:adjective
 предболезнь/N	po:noun
 предделирий/K	po:noun
+предиктор/K	po:noun
 предилекционный/A	po:adjective
 предиспозиция/I	po:noun
 предманифестный/A	po:adjective
+предменопаузальный/A	po:adjective
+предневротический/A	po:adjective
+предпатологический/A	po:adjective
 предприпадочный/A	po:adjective
 предприступный/A	po:adjective
+предпсихотический/A	po:adjective
 предсердечный/A	po:adjective
 предсердный/A	po:adjective
 предстарческий/A	po:adjective
@@ -2508,22 +3305,28 @@
 предфаза/I	po:noun
 предшкольный/A	po:adjective
 предынсультный/A	po:adjective
+преимпульсный/A	po:adjective
 прекардиальный/A	po:adjective
 преклимактерический/A	po:adjective
 прекома/I	po:noun
 прекоматозный/A	po:adjective
 прекращаемый/A	po:adjective
 прелогический/A	po:adjective
+премедикация/I	po:noun
 преморбид/K	po:noun
 преморбидный/A	po:adjective
 премоторный/A	po:adjective
+пренатальный/A	po:adjective
 препсихопатический/A	po:adjective
 препубертатный/A	po:adjective
 пререцидивный/A	po:adjective
 прероландовый/A	po:adjective
 пресбиофрения/I	po:noun
 пресбиофренный/A	po:adjective
+пресенилин/K	po:noun
 пресениум/K	po:noun
+пресинаптический/A	po:adjective
+пресомнический/A	po:adjective
 пресомноленция/I	po:noun
 пресуицидальный/A	po:adjective
 префронтальный/A	po:adjective
@@ -2540,7 +3343,6 @@
 примордиальный/A	po:adjective
 приступообразность/N	po:noun
 приступообразный/A	po:adjective
-ПРЛ/C	po:abbr exp:пограничное расстройство личности;параноидное расстройство личности
 проактивный/A	po:adjective
 пробанд/K	po:noun
 прогерия/I	po:noun
@@ -2555,11 +3357,15 @@
 прозопагнозия/I	po:noun
 прокурсивный/A	po:adjective
 пролактин/K	po:noun
+пролактинома/I	po:noun
+пролактогенный/A	po:adjective
 пролиферативный/A	po:adjective
+пролонгированный/A	po:adjective
 промазин/K	po:noun
 промахивание/K	po:noun
 промежуточный/A	po:adjective
 прометазин/K	po:noun
+промискуитет/K	po:noun
 пронация/I	po:noun
 пропазин/K	po:noun
 пропранолол/K	po:noun
@@ -2572,8 +3378,11 @@
 просоночный/A	po:adjective
 протеинотерапия/I	po:noun
 протеинурия/I	po:noun
+противорецидивный/A	po:adjective
 противотревожный/A	po:adjective
 противоэпилептический/A	po:adjective
+протиксен/K	po:noun
+протирелин/K	po:noun
 протозойный/A	po:adjective
 протопатичность/N	po:noun
 протрагированный/A	po:adjective
@@ -2584,11 +3393,13 @@
 псевдоабсанс/K	po:noun
 псевдоадипсия/I	po:noun
 псевдоальцгеймеровский/A	po:adjective
+псевдоастенический/A	po:adjective
 псевдоастматический/A	po:adjective
 псевдоаутистический/A	po:adjective
 псевдоаутоскопия/I	po:noun
 псевдоаффективный/A	po:adjective
 псевдобульбарный/A	po:adjective
+псевдовагинизм/K	po:noun
 псевдовоспоминание/K	po:noun
 псевдогаллюцинаторный/A	po:adjective
 псевдогаллюцинация/I	po:noun
@@ -2603,8 +3414,11 @@
 псевдодипсомания/I	po:noun
 псевдозапой/K	po:noun
 псевдоимпотенция/I	po:noun
+псевдоистерический/A	po:adjective
 псевдокататонический/A	po:adjective
 псевдокомпенсация/I	po:noun
+псевдологический/A	po:adjective
+псевдология/I	po:noun
 псевдомелия/I	po:noun
 псевдоменингит/K	po:noun
 псевдомория/I	po:noun
@@ -2615,16 +3429,21 @@
 псевдоорганический/A	po:adjective
 псевдопаралитический/A	po:adjective
 псевдопаралич/K	po:noun
+псевдопаркинсонизм/K	po:noun
 псевдоперверсия/I	po:noun
 псевдопиковский/A	po:adjective
+псевдоприпадки/K	po:noun
+псевдопсихастенический/A	po:adjective
 псевдопсихопатический/A	po:adjective
 псевдопсихопатия/I	po:noun
 псевдоптиализм/K	po:noun
 псевдорассеянность/N	po:noun
+псевдорезистентность/N	po:noun
 псевдореминисценция/I	po:noun
 псевдосифилитический/A	po:adjective
 псевдосклероз/K	po:noun
 псевдосмия/I	po:noun
+псевдосоматический/A	po:adjective
 псевдоступор/K	po:noun
 псевдоступорозный/A	po:adjective
 псевдотабес/K	po:noun
@@ -2632,6 +3451,8 @@
 псевдотуморозный/A	po:adjective
 псевдошизофренический/A	po:adjective
 псевдошизофрения/I	po:noun
+псевдоэйфорический/A	po:adjective
+псевдоэнцефалитический/A	po:adjective
 псилоцибин/K	po:noun
 псилоцин/K	po:noun
 психагогика/I	po:noun
@@ -2640,8 +3461,13 @@
 психастенический/A	po:adjective
 психастеноподобный/A	po:adjective
 психиатрический/A	po:adjective
+психиатрия/I	po:noun
+психоактивирующий/A	po:adjective
+психоактивный/A	po:adjective
+психоаналептик/K	po:noun
 психоаналитический/A	po:adjective
 психоанемический/A	po:adjective
+психоастенический/A	po:adjective
 психобиограмма/I	po:noun
 психобиологический/A	po:adjective
 психобиология/I	po:noun
@@ -2650,22 +3476,33 @@
 психовектор/K	po:noun
 психогальванический/A	po:adjective
 психогенез/K	po:noun
+психогенетика/I	po:noun
 психогения/I	po:noun
 психогенный/A	po:adjective
+психогериатрический/A	po:adjective
 психогигиенический/A	po:adjective
 психогипогликемический/A	po:adjective
 психоделик/K	po:noun
+психодинамический/A	po:adjective
 психодислептик/K	po:noun
+психодислептический/A	po:adjective
 психодрама/I	po:noun
 психозомиметический/A	po:adjective
+психоимажинативный/A	po:adjective
+психоиммунология/I	po:noun
 психоинтеллектуальный/A	po:adjective
+психокардиология/I	po:noun
 психокатарсис/K	po:noun
 психокатартический/A	po:adjective
 психоклонический/A	po:adjective
+психокоррекционный/A	po:adjective
 психолагния/I	po:noun
 психолепсия/I	po:noun
+психолептик/K	po:noun
 психолептический/A	po:adjective
+психолого-психиатрический/A	po:adjective
 психомеханика/I	po:noun
+психомиметик/K	po:noun
 психоморфологизм/K	po:noun
 психоморфологический/A	po:adjective
 психомоторика/I	po:noun
@@ -2674,14 +3511,20 @@
 психоневроз/K	po:noun
 психоневрологический/A	po:adjective
 психоневротический/A	po:adjective
+психонейроэндокринология/I	po:noun
+психонервный/A	po:adjective
 психоника/I	po:noun
 психообразование/K	po:noun
+психообразовательный/A	po:adjective
+психоонкология/I	po:noun
 психоорганический/A	po:adjective
 психоортопедия/I	po:noun
 психопатизация/I	po:noun
 психопатия/I	po:noun
 психопатологический/A	po:adjective
+психопатология/I	po:noun
 психопатоподобный/A	po:adjective
+психопедагогический/A	po:adjective
 психоприемник/K	po:noun
 психопросвещение/K	po:noun
 психопрофилактический/A	po:adjective
@@ -2697,22 +3540,30 @@
 психотерапевтический/A	po:adjective
 психотерапия/I	po:noun
 психотизм/K	po:noun
+психотик/K	po:noun
 психотический/A	po:adjective
 психотомиметик/K	po:noun
 психотомиметический/A	po:adjective
+психотоник/K	po:noun
 психотонический/A	po:adjective
 психотравма/I	po:noun
+психотравматизация/I	po:noun
 психотравматический/A	po:adjective
 психотравмирующий/A	po:adjective
 психофарма/I	po:noun
+психофармакология/I	po:noun
+психофармакотерапевтический/A	po:adjective
 психофармакотерапия/I	po:noun
+психохирургический/A	po:adjective
 психохирургия/I	po:noun
+психоэндокринный/A	po:adjective
+психоэндокринолог/K	po:noun
+психоэнергизирующий/A	po:adjective
 психоэпилепсия/I	po:noun
 психоэпилептический/A	po:adjective
 психрофобия/I	po:noun
-ПСР/C	po:abbr exp:психосоматические расстройства
+психэстетический/A	po:adjective
 птоз/K	po:noun
-ПТСР/C	po:abbr exp:посттравматическое стрессовое расстройство
 пубертат/K	po:noun
 пунктат/K	po:noun
 пустула/I	po:noun
@@ -2721,16 +3572,14 @@
 пуэрилизм/K	po:noun
 пуэрильность/N	po:noun
 пуэрильный/A	po:adjective
-ПФ/C	po:abbr exp:плазмаферез
 пфропфгебефрения/I	po:noun
 пфропфциклофрения/I	po:noun
 пфропфшизофрения/I	po:noun
-ПФТ/C	po:abbr exp:психофармакотерапия
-ПЦР/C	po:abbr exp:полимеразная цепная реакция
-ПЭТ/C	po:abbr exp:позитронно-эмиссионная томография
-РА/C	po:abbr exp:ревматоидный артрит
 рабдофобия/I	po:noun
+работоголизм/K	po:noun
+работоголик/K	po:noun
 радедорм/K	po:noun
+разгрузочно-диетический/A	po:adjective
 разгрузочный/A	po:adjective
 раздавливание/K	po:noun
 раздражение/K	po:noun
@@ -2739,31 +3588,39 @@
 разуметься/R	po:verb
 рамелтеон/K	po:noun
 раппорт/K	po:noun
+раптоидный/A	po:adjective
 раптус/K	po:noun
-РАС/C	po:abbr exp:расстройства аутистического спектра
 распирание/K	po:noun
 рассуждательство/K	po:noun
+растормаживающий/A	po:adjective
 расторможение/K	po:noun
 расщипывать/X	po:verb
 раушнаркоз/K	po:noun
 рационализирование/K	po:noun
-РДР/C	po:abbr exp:рекуррентное депрессивное расстройство
+реабилитационно-корригирующий/A	po:adjective
+реадаптационный/A	po:adjective
 реадаптация/I	po:noun
+реактивно-личностный/A	po:adjective
 реактивный/A	po:adjective
 ребоксетин/K	po:noun
 ревмоваскулит/K	po:noun
 ревмосептический/A	po:adjective
+регоспитализация/I	po:noun
 регредиентность/N	po:noun
 регредиентный/A	po:adjective
+регрессивный/A	po:adjective
+регрессирующий/A	po:adjective
 редупликационный/A	po:adjective
 редупликация/I	po:noun
 редуплицирующий/A	po:adjective
 редуцированность/N	po:noun
+редуцирующий/A	po:adjective
 резидуальный/A	po:adjective
 резистин/K	po:noun
 резонерский/A	po:adjective
 резонерство/K	po:noun
 резонёрство/K	po:noun
+реинституциализация/I	po:noun
 реинтеграция/I	po:noun
 реинтроекция/I	po:noun
 рекомпенсация/I	po:noun
@@ -2771,18 +3628,29 @@
 реконвалесценция/I	po:noun
 рекрудесценция/I	po:noun
 ректофобия/I	po:noun
+рекуррентный/A	po:adjective
 реладорм/K	po:noun
+релаксант/K	po:noun
 реманенция/I	po:noun
+ремедиация/I	po:noun
 ремимазолам/K	po:noun
 ремиссионный/A	po:adjective
 ремиссия/I	po:noun
+ремитирующий/A	po:adjective
 ремиттирующий/A	po:adjective
+ремоделирование/K	po:noun
 ренифлер/K	po:noun
 ренифлёр/K	po:noun
 рентгенодиагностический/A	po:adjective
 рентгенологический/A	po:adjective
+реоэнцефалограмма/I	po:noun
+реоэнцефалография/I	po:noun
 реперкуссия/I	po:noun
+реперсонализационный/A	po:adjective
 ресоциализация/I	po:noun
+респондер/K	po:noun
+рестриктивный/A	po:adjective
+реструктурирование/K	po:noun
 ретардант/K	po:noun
 ретардация/I	po:noun
 ретардированный/A	po:adjective
@@ -2792,57 +3660,91 @@
 ретиф/K	po:noun
 ретифизм/K	po:noun
 ретравматизация/I	po:noun
+ретроинсулярный/A	po:adjective
 ретрокурсивный/A	po:adjective
 ретропульсивный/A	po:adjective
 ретропульсия/I	po:noun
 ретроспективный/A	po:adjective
 реформаторство/K	po:noun
+рефрактерный/A	po:adjective
+рецептивный/A	po:adjective
+рецидивирование/K	po:noun
 рецидивирующий/A	po:adjective
+рецидивность/N	po:noun
 речедвигательный/A	po:adjective
 речемыслительный/A	po:adjective
-РЗ/C	po:abbr exp:ревматические заболевания
+речеобразование/K	po:noun
+ривастигмин/K	po:noun
 ригидный/A	po:adjective
 рипофобия/I	po:noun
 рисперидон/K	po:noun
+ритансерин/K	po:noun
 рифмование/K	po:noun
-РКИ/C	po:abbr exp:рандомизированные контролируемые исследования
-РЛ/C	po:abbr exp:расстройство личности
-РНК/C	po:abbr exp:рибонуклеиновая кислота
 роботообразный/A	po:adjective
 рогипнол/K	po:noun
 роговин/K	po:noun
 роговица/I	po:noun
+роландический/A	po:adjective
 ромпаркин/K	po:noun
-Роршах/MC	st:Роршах po:proper_noun
+ропинирол/K	po:noun
 ротоглоточный/A	po:adjective
+руброспинальный/A	po:adjective
 руброфобия/I	po:noun
 рудиментарность/N	po:noun
+рудиментарный/A	po:adjective
 рудотель/N	po:noun
 руинирование/K	po:noun
 руминация/I	po:noun
-РШС/C	po:abbr exp:расстройства шизофренического спектра
-РЭГ/C	po:abbr exp:реоэнцефалография
-СА/C	po:abbr exp:синдром Аспергера
 савант/K	po:noun
 савантизм/K	po:noun
 садистический/A	po:adjective
 саккадированный/A	po:adjective
 салаамов/P	po:adjective
+саливация/I	po:noun
 сальвинорин/K	po:noun
 сальтаторный/A	po:adjective
+самоактуализация/I	po:noun
+самовербализация/I	po:noun
 самовнушаемость/N	po:noun
 самовнушение/K	po:noun
+самовосприятие/K	po:noun
 самовыпадение/K	po:noun
+самозапрет/K	po:noun
+самоидентичность/N	po:noun
+самоиндуцирование/K	po:noun
+самоинструктирование/K	po:noun
+самокоррекция/I	po:noun
 самолетофобия/I	po:noun
 самолётофобия/I	po:noun
+самонаблюдение/K	po:noun
+самонаркотизация/I	po:noun
+самообвинение/K	po:noun
 самооговор/K	po:noun
+самоопросник/K	po:noun
 самооскопление/K	po:noun
+самоотчет/K	po:noun
+самоотчёт/K	po:noun
+самопереживание/K	po:noun
 самоповреждение/K	po:noun
+самопоглощенность/N	po:noun
+самопоглощённость/N	po:noun
 самопогружение/K	po:noun
 самопоклонение/K	po:noun
+самопонимание/K	po:noun
+самопринятие/K	po:noun
 самопровоцирование/K	po:noun
+саморазрушающий/A	po:adjective
 самораскрытие/K	po:noun
 саморегулировка/I	po:noun
+саморефлексия/I	po:noun
+самостигматизация/I	po:noun
+самостимуляция/I	po:noun
+самоудушение/K	po:noun
+самоупрек/K	po:noun
+самоупрёк/K	po:noun
+самоусиление/K	po:noun
+самощажение/K	po:noun
+самоэффективность/N	po:noun
 саногенез/K	po:noun
 саногенетический/A	po:adjective
 саногенный/A	po:adjective
@@ -2861,34 +3763,41 @@
 сверхценный/A	po:adjective
 сверхъестественный/A	po:adjective
 светоощущение/K	po:noun
-СВЧ/C	po:abbr exp:сверхвысокочастотный
+светотерапия/I	po:noun
 сгибательный/A	po:adjective
-СГП/C	po:abbr exp:синдром гиперпролактинемии
-СД/C	po:abbr exp:сосудистая деменция
 сдавление/K	po:noun
-СДВГ/C	po:abbr exp:синдром дефицита внимания и гиперактивности
 сделанность/N	po:noun
+седативный/A	po:adjective
 седация/I	po:noun
 седуксеновый/A	po:adjective
+сексоголик/K	po:noun
+сексопатологический/A	po:adjective
+секстерапевтический/A	po:adjective
+секстерапия/I	po:noun
+сексуально-поведенческий/A	po:adjective
 секундарный/A	po:adjective
+селегилин/K	po:noun
 семап/K	po:noun
+сенестезия/I	po:noun
 сенестетический/A	po:adjective
 сенестоипохондрический/A	po:adjective
+сенестоипохондрия/I	po:noun
 сенестопатический/A	po:adjective
 сенестопатия/I	po:noun
 сенестопатоз/K	po:noun
 сенесценция/I	po:noun
+сензитивность/N	po:noun
 сенилизм/K	po:noun
 сенильноподобный/A	po:adjective
 сенильный/A	po:adjective
 сениум/K	po:noun
 сенситивный/A	po:adjective
+сенситизация/I	po:noun
 сенсоклонический/A	po:adjective
 сенсомоторика/I	po:noun
 сенсомоторный/A	po:adjective
 сенсопатия/I	po:noun
 сенсорный/A	po:adjective
-Сербский/AC	st:Сербский po:proper_noun
 сервилизм/K	po:noun
 сердцебиение/K	po:noun
 серонегативный/A	po:adjective
@@ -2921,11 +3830,19 @@
 симптоматика/I	po:noun
 симптоматический/A	po:adjective
 симптоматологический/A	po:adjective
+симптоматология/I	po:noun
 симптомокомплекс/K	po:noun
 симптомообразование/K	po:noun
+симуляция/I	po:noun
+синапс/K	po:noun
 синаптический/A	po:adjective
+синаптогенез/K	po:noun
+синдром/K	po:noun
+синдромальный/A	po:adjective
 синдромогенез/K	po:noun
+синдромокинез/K	po:noun
 синдромологический/A	po:adjective
+синдромология/I	po:noun
 синергический/A	po:adjective
 синестезия/I	po:noun
 синестетический/A	po:adjective
@@ -2941,9 +3858,9 @@
 синтонический/A	po:adjective
 синтонность/N	po:noun
 синтонный/A	po:adjective
+синуклеин/K	po:noun
+синуклеинопатия/I	po:noun
 синусит/K	po:noun
-СИОЗС/C	po:abbr exp:селективные ингибиторы обратного захвата серотонина
-СИОЗСН/C	po:abbr exp:селективные ингибиторы обратного захвата серотонина и норадреналина
 сирингобульбия/I	po:noun
 сирингомиелия/I	po:noun
 ситиомания/I	po:noun
@@ -2954,13 +3871,12 @@
 ситуационный/A	po:adjective
 сифилофобия/I	po:noun
 сифилус/K	po:noun
-СК/C	po:abbr exp:синдром Каннера
 скабиофобия/I	po:noun
 сказкотерапия/I	po:noun
 скатомания/I	po:noun
 скатофагия/I	po:noun
 скатофилия/I	po:noun
-СКВ/C	po:abbr exp:системная красная волчанка
+скафоцефалия/I	po:noun
 скиртоидия/I	po:noun
 скиртотимик/K	po:noun
 склерозированный/A	po:adjective
@@ -2972,15 +3888,19 @@
 скотома/I	po:noun
 скотомизация/I	po:noun
 скотофобия/I	po:noun
-СКОЭ/C	po:abbr exp:средний корпускулярный объём эритроцита
+скрининг/K	po:noun
 слепоглухонемота/I	po:noun
 словоупотребление/K	po:noun
-Снежневский/AC	st:Снежневский po:proper_noun
+сновидение/K	po:noun
+сновидность/N	po:noun
 сновидный/A	po:adjective
 сноговорение/K	po:noun
 сноподобный/A	po:adjective
+снохождение/K	po:noun
 содомия/I	po:noun
 содружественный/A	po:adjective
+созависимость/N	po:noun
+созависимый/A	po:adjective
 сознаваемость/N	po:noun
 солипсический/A	po:adjective
 солитаризм/K	po:noun
@@ -2998,6 +3918,8 @@
 соматомоторный/A	po:adjective
 соматоневроз/K	po:noun
 соматоневрологический/A	po:adjective
+соматоневрология/I	po:noun
+соматопсихиатрия/I	po:noun
 соматопсихический/A	po:adjective
 соматопсихоз/K	po:noun
 соматопсихология/I	po:noun
@@ -3015,18 +3937,21 @@
 сомнопсихотерапия/I	po:noun
 сомнофилия/I	po:noun
 сонапакс/K	po:noun
+сонбодрствование/K	po:noun
 соощущение/K	po:noun
 соскальзывание/K	po:noun
 социабельность/N	po:noun
+социогения/I	po:noun
 социодрама/I	po:noun
 социокультуральный/A	po:adjective
 социометрия/I	po:noun
+социопатия/I	po:noun
 социореабилитационный/A	po:adjective
 социотерапевтический/A	po:adjective
 социотерапия/I	po:noun
 социофобия/I	po:noun
-СП/C	po:abbr exp:судорожные пороги
 спазмофилия/I	po:noun
+спайс/K	po:noun
 спастичность/N	po:noun
 спектрофобия/I	po:noun
 спидофоб/K	po:noun
@@ -3039,24 +3964,23 @@
 спонгиоз/K	po:noun
 спонгиоформный/A	po:adjective
 спорадический/A	po:adjective
-СПЭ/C	po:abbr exp:судебно-психиатрическая экспертиза
-СР/C	po:abbr exp:синдром Ретта
+среднепрогредиентный/A	po:adjective
 средовой/A	po:adjective
-СРК/C	po:abbr exp:синдром раздражённого кишечника
-ССР/C	po:abbr exp:социально-стрессовые расстройства
 стабилизовавшийся/A	po:adjective
 стазобазофобия/I	po:noun
 статотимический/A	po:adjective
+стационарозамещающий/A	po:adjective
 стволовый/A	po:adjective
-СТГ/C	po:abbr exp:соматотропный гормон
 стелазин/K	po:noun
 стенический/A	po:adjective
 стеничность/N	po:noun
+стеничный/A	po:adjective
 стенокардитический/A	po:adjective
 стенфордский/A	po:adjective
 стереоакузия/I	po:noun
 стереогноз/K	po:noun
 стереогностический/A	po:adjective
+стереотаксис/K	po:noun
 стереотаксический/A	po:adjective
 стереотипизированный/A	po:adjective
 стереотипия/I	po:noun
@@ -3065,56 +3989,78 @@
 стимминг/K	po:noun
 стимульный/A	po:adjective
 стимуляторный/A	po:adjective
+стресс/K	po:noun
+стрессобусловленный/A	po:adjective
+стрессогенный/A	po:adjective
 стрессор/K	po:noun
+стресспровоцированный/A	po:adjective
+стресспротективный/A	po:adjective
 стриарный/A	po:adjective
+стриатум/K	po:noun
 стриопаллидарный/A	po:adjective
 структурироваться/W	po:verb
 ступидный/A	po:adjective
+ступор/K	po:noun
 ступорозный/A	po:adjective
 субарахноидальный/A	po:adjective
+субаффективный/A	po:adjective
+субдебильность/N	po:noun
 субделирий/K	po:noun
 субдепрессивность/N	po:noun
 субдепрессивный/A	po:adjective
 субдепрессия/I	po:noun
 субдоминантный/A	po:adjective
 субдуральный/A	po:adjective
+субкататонический/A	po:adjective
+субкаудальный/A	po:adjective
 субклинический/A	po:adjective
 субкома/I	po:noun
 субкоматозный/A	po:adjective
+субкомпенсированный/A	po:adjective
 субкортик/K	po:noun
+субманиакальный/A	po:adjective
 субокципитальный/A	po:adjective
 субпопуляция/I	po:noun
+субпсихотический/A	po:adjective
 субсенсорный/A	po:adjective
+субсиндромальный/A	po:adjective
 субступор/K	po:noun
 субступорозный/A	po:adjective
+субталамический/A	po:adjective
 субтест/K	po:noun
 субфебрильный/A	po:adjective
 суворексант/K	po:noun
 суггестивный/A	po:adjective
+суггестия/I	po:noun
 суданофильный/A	po:adjective
+судебно-психиатрический/A	po:adjective
 судорогоподобный/A	po:adjective
 суицид/K	po:noun
+суицидальность/N	po:noun
 суицидный/A	po:adjective
 суицидогенный/A	po:adjective
+суицидологический/A	po:adjective
 суицидомания/I	po:noun
+суицидоопасный/A	po:adjective
 суицидопатия/I	po:noun
 суицидофобия/I	po:noun
 сукцессивный/A	po:adjective
+сукцинимид/K	po:noun
 сульпирид/K	po:noun
 сультоприд/K	po:noun
 сульфозин/K	po:noun
 сульфозинотерапия/I	po:noun
 суммация/I	po:noun
+суперэго	po:noun
 супинация/I	po:noun
 супрануклеарный/A	po:adjective
 супрессия/I	po:noun
 супрессорный/A	po:adjective
-СФЖ/C	po:abbr exp:сексуальная формула женская
+сурдомутизм/K	po:noun
 сфингомиелин/K	po:noun
 сфингомиелиназа/I	po:noun
 сфингомиелиновый/A	po:adjective
 сфинктер/K	po:noun
-СФМ/C	po:abbr exp:сексуальная формула мужская
 схема-терапия/I	po:noun
 схизис/K	po:noun
 схизофрения/I	st:схизофрения po:noun
@@ -3132,6 +4078,7 @@
 тактильный/A	po:adjective
 талассофобия/I	po:noun
 талидомид/K	po:noun
+тамагочи-аддикция/I	po:noun
 танатофобический/A	po:adjective
 танатофобия/I	po:noun
 танцеподобный/A	po:adjective
@@ -3140,6 +4087,7 @@
 тардивный/A	po:adjective
 тасикинезия/I	po:noun
 татуаж/K	po:noun
+таупатия/I	po:noun
 тафефилия/I	po:noun
 тафефобия/I	po:noun
 тафофилия/I	po:noun
@@ -3151,6 +4099,7 @@
 тахитимия/I	po:noun
 тахифемия/I	po:noun
 тахифразия/I	po:noun
+театротерапия/I	po:noun
 тебаизм/K	po:noun
 телеангиэктазия/I	po:noun
 телепсихиатрия/I	po:noun
@@ -3159,11 +4108,14 @@
 теменнозатылочный/A	po:adjective
 теменной/A	po:adjective
 тениофобия/I	po:noun
+тенториум/K	po:noun
 теофобия/I	po:noun
 терален/K	po:noun
 терапевтический/A	po:adjective
+тератогенность/N	po:noun
 термалгия/I	po:noun
 терманестезия/I	po:noun
+термоневроз/K	po:noun
 термофобия/I	po:noun
 термоэстезия/I	po:noun
 тетанический/A	po:adjective
@@ -3180,12 +4132,17 @@
 тианептин/K	po:noun
 тиаприд/K	po:noun
 тизерцин/K	po:noun
+тик/K	po:noun
+тикозный/A	po:adjective
 тикообразный/A	po:adjective
 тимергазия/I	po:noun
 тимический/A	po:adjective
 тимия/I	po:noun
+тимоаналептик/K	po:noun
+тимоизолептик/K	po:noun
 тимолептик/K	po:noun
 тимолептический/A	po:adjective
+тимонейролептик/K	po:noun
 тимонейролептический/A	po:adjective
 тимопатический/A	po:adjective
 тимопатия/I	po:noun
@@ -3193,6 +4150,8 @@
 тимопсихика/I	po:noun
 тимопсихический/A	po:adjective
 тимостабилизатор/K	po:noun
+тимотранквилизатор/K	po:noun
+тиннитус/K	po:noun
 тиобарбитуровый/A	po:adjective
 тиоксантен/K	po:noun
 тиопентал/K	po:noun
@@ -3203,8 +4162,9 @@
 тирамин/K	po:noun
 тиранизм/K	po:noun
 тиреолиберин/K	po:noun
+тиреотропин/K	po:noun
+тиролиберин/K	po:noun
 тифопаратифозный/A	po:adjective
-ТМС/C	po:abbr exp:транскраниальная магнитная стимуляция
 токофобия/I	po:noun
 токсикоинфекционный/A	po:adjective
 токсикоманический/A	po:adjective
@@ -3224,9 +4184,11 @@
 топогнозия/I	po:noun
 топофобия/I	po:noun
 торзионный/A	po:adjective
+торможенность/N	po:noun
 тормозимый/A	po:adjective
 торпидность/N	po:noun
 торпидный/A	po:adjective
+тортиколлис/K	po:noun
 тофизопам/K	po:noun
 тофранил/K	po:noun
 тофраниловый/A	po:adjective
@@ -3234,18 +4196,29 @@
 травматизация/I	po:noun
 травматизирование/K	po:noun
 травмоцептивность/N	po:noun
+тразепам/K	po:noun
 тразодон/K	po:noun
+трактография/I	po:noun
+трактотомия/I	po:noun
 транзитивизм/K	po:noun
 транзиторный/A	po:adjective
 транилципромин/K	po:noun
 транквилизирующий/A	po:adjective
+транквилоноотроп/K	po:noun
 трансвестизм/K	po:noun
 трансвестит/K	po:noun
 транскортикальный/A	po:adjective
+транскраниальный/A	po:adjective
 транскультуральный/A	po:adjective
+трансмиттер/K	po:noun
 трансорбитальный/A	po:adjective
 транссексуал/K	po:noun
 транссексуализм/K	po:noun
+транссексуальность/N	po:noun
+транссексуальный/A	po:adjective
+транссинаптический/A	po:adjective
+тревожно-депрессивный/A	po:adjective
+тревожно-фобический/A	po:adjective
 тредекафобия/I	po:noun
 трема/I	po:noun
 тремблекс/K	po:noun
@@ -3253,9 +4226,11 @@
 тренинговый/A	po:adjective
 трепанационный/A	po:adjective
 триазолам/K	po:noun
+триазолбензодиазепин/K	po:noun
 трибадия/I	po:noun
 триггер/K	po:noun
 тригексифенидил/K	po:noun
+тримеперидин/K	po:noun
 триметадион/K	po:noun
 триметин/K	po:noun
 тримипрамин/K	po:noun
@@ -3267,6 +4242,7 @@
 триплегия/I	po:noun
 триптамин/K	po:noun
 триптизол/K	po:noun
+триптофангидроксилаза/I	po:noun
 триседил/K	po:noun
 трифлуоперазин/K	po:noun
 трифлуперидол/K	po:noun
@@ -3280,27 +4256,24 @@
 тромбопластин/K	po:noun
 тромботический/A	po:adjective
 тропацин/K	po:noun
+тропность/N	po:noun
 тропный/A	po:adjective
 трофотропия/I	po:noun
 трофотропный/A	po:adjective
 трудинструктор/K	po:noun
+трудоголизм/K	po:noun
+трудоголик/K	po:noun
 трудообучение/K	po:noun
-ТТГ/C	po:abbr exp:тиреотропный гормон
 туберкулезофобия/I	po:noun
 туберозный/A	po:adjective
+тубероинфундибулярный/A	po:adjective
 тугоподвижность/N	po:noun
 туннелефобия/I	po:noun
-Туретт/MC	st:Туретт po:proper_noun
-ТЦА/C	po:abbr exp:трициклические антидепрессанты
-Т₃/C	po:abbr exp:трийодтиронин
-Т₄/C	po:abbr exp:тироксин
 угашение/K	po:noun
-УДТ/C	po:abbr exp:углеводдефицитный трансферрин
 узколокализационистский/A	po:adjective
 узнавание/K	po:noun
 ультрапарадоксальный/A	po:adjective
 умножение/K	po:noun
-УМО/C	po:abbr exp:умственная отсталость
 ундинизм/K	po:noun
 ундулирующий/A	po:adjective
 унилатеральный/A	po:adjective
@@ -3308,7 +4281,6 @@
 ункус/K	po:noun
 ункусный/A	po:adjective
 упасть/Y	po:verb
-УПП/C	po:abbr exp:уровень постоянного потенциала
 упражняемость/N	po:noun
 упускание/K	po:noun
 уранизм/K	po:noun
@@ -3325,6 +4297,8 @@
 успокаивающий/A	po:adjective
 утихание/K	po:noun
 ухудшение/K	po:noun
+фМРТ/C	po:abbr exp:функциональная магнитно-резонансная томография
+фабомотизол/K	po:noun
 фабулирующий/A	po:adjective
 фабуляторный/A	po:adjective
 фагофобия/I	po:noun
@@ -3336,11 +4310,17 @@
 фантазиофрения/I	po:noun
 фантазм/K	po:noun
 фарадический/A	po:adjective
+фармакогенетика/I	po:noun
 фармакогенетический/A	po:adjective
+фармакодинамика/I	po:noun
+фармакокинетика/I	po:noun
 фармакологический/A	po:adjective
 фармакомания/I	po:noun
 фармакопсихиатрия/I	po:noun
+фармакорезистентность/N	po:noun
+фармакотерапия/I	po:noun
 фармакофобия/I	po:noun
+фармакоэпидемиология/I	po:noun
 фасцинация/I	po:noun
 фебрильный/A	po:adjective
 федра/I	po:noun
@@ -3352,6 +4332,7 @@
 фенелзин/K	po:noun
 фенибут/K	po:noun
 фенилаланингидроксилаза/I	po:noun
+фенилкетонурия/I	po:noun
 фенилпировиноградный/A	po:adjective
 фенилурия/I	po:noun
 фенилэтиламин/K	po:noun
@@ -3362,11 +4343,14 @@
 фенотипический/A	po:adjective
 фентоламин/K	po:noun
 фенциклидин/K	po:noun
+феохромоцитома/I	po:noun
 фепрозиднин/K	po:noun
 ферментопатия/I	po:noun
 фершробен/K	po:noun
+фетишистский/A	po:adjective
 фетопатия/I	po:noun
 фибрилла/I	po:noun
+фибромиалгия/I	po:noun
 фиванский/A	po:adjective
 физиогенный/A	po:adjective
 фиксационный/A	po:adjective
@@ -3385,10 +4369,12 @@
 флунитразепам/K	po:noun
 флуоксетин/K	po:noun
 флупентиксол/K	po:noun
+флуразепам/K	po:noun
 флуспирилен/K	po:noun
 флуфеназин/K	po:noun
 флушпирилен/K	po:noun
-фМРТ/C	po:abbr exp:функциональная магнитно-резонансная томография
+флэшбэк/K	po:noun
+флюктуирующий/A	po:adjective
 фобический/A	po:adjective
 фобофобия/I	po:noun
 фокомелия/I	po:noun
@@ -3403,14 +4389,12 @@
 формиминоглютаминовый/A	po:adjective
 форпостсиндром/K	po:noun
 форшпиль/N	po:noun
-ФОС/C	po:abbr exp:фосфорорганические соединения
 фосфеновый/A	po:adjective
 фотогенный/A	po:adjective
 фотонный/A	po:adjective
 фотопсия/I	po:noun
 фототерапия/I	po:noun
 фотофобия/I	po:noun
-Франкл/MC	st:Франкл po:proper_noun
 фрейдистский/A	po:adjective
 фрейдовский/A	po:adjective
 френокардия/I	po:noun
@@ -3419,7 +4403,6 @@
 фрустратор/K	po:noun
 фрустрационный/A	po:adjective
 фрустрирующий/A	po:adjective
-ФСГ/C	po:abbr exp:фолликулостимулирующий гормон
 фтизиофобия/I	po:noun
 фтириофобия/I	po:noun
 фторацизин/K	po:noun
@@ -3450,7 +4433,6 @@
 хлорпенический/A	po:adjective
 хлорпромазин/K	po:noun
 хлорпротиксен/K	po:noun
-ХОБЛ/C	po:abbr exp:хроническая обструктивная болезнь лёгких
 холестеринизированный/A	po:adjective
 хондроостеодистрофия/I	po:noun
 хореатический/A	po:adjective
@@ -3477,7 +4459,6 @@
 хронофобия/I	po:noun
 хронофрения/I	po:noun
 хульный/A	po:adjective
-ЦАДАСИЛ/C	po:abbr exp:церебральная аутосомно-доминантная артериопатия с субкортикальными инфарктами и лейкоэнцефалопатией
 цветоощущение/K	po:noun
 цедек/K	po:noun
 целеобразование/K	po:noun
@@ -3516,14 +4497,10 @@
 цитилон/K	po:noun
 цитогенетический/A	po:adjective
 цитохолевый/A	po:adjective
-ЦНС/C	po:abbr exp:центральная нервная система
 черепно-мозговой/A	po:adjective
 четырехциклический/A	po:adjective
 четырёхциклический/A	po:adjective
 чифиризм/K	po:noun
-ЧМТ/C	po:abbr exp:черепно-мозговая травма
-ШАР/C	po:abbr exp:шизоаффективное расстройство
-Шарко/C	st:Шарко po:proper_noun
 шизоанализ/K	st:шизоанализ po:noun
 шизоаналитик/K	st:шизоаналитик po:noun
 шизоаналитический/A	st:шизоаналитический po:adjective
@@ -3575,9 +4552,7 @@
 шизофреноформный/A	st:шизофреноформный po:adjective
 шизоэпилепсия/I	st:шизоэпилепсия po:noun
 шизэнцефалия/I	st:шизэнцефалия po:noun
-Шнайдер/MC	st:Шнайдер po:proper_noun
 шперрунг/K	st:шперрунг po:noun
-ШРЛ/C	po:abbr exp:шизоидное расстройство личности
 шубообразный/A	st:шубообразный po:adjective
 эвирация/I	po:noun
 эволютивный/A	po:adjective
@@ -3599,7 +4574,6 @@
 эквипотенциализм/K	po:noun
 эквипотенционализм/K	po:noun
 эквифинальность/N	po:noun
-ЭКГ/C	po:abbr exp:электрокардиограмма
 экзацербация/I	po:noun
 экзистенция/I	po:noun
 экзогения/I	po:noun
@@ -3680,7 +4654,6 @@
 эмотивность/N	po:noun
 эмотивный/A	po:adjective
 эмоциогенный/A	po:adjective
-ЭМП/C	po:abbr exp:электромагнитное поле
 эмпатия/I	po:noun
 эмпатоген/K	po:noun
 эмподистокоимез/K	po:noun
@@ -3731,8 +4704,12 @@
 эпилептоидизация/I	po:noun
 эпилептоидия/I	po:noun
 эпилептоидный/A	po:adjective
+эпилептолог/K	po:noun
+эпилептологический/A	po:adjective
 эпилептология/I	po:noun
+эпилептотимик/K	po:noun
 эпинефрин/K	po:noun
+эпиприпадок/K	po:noun
 эпистаксофобия/I	po:noun
 эпитимный/A	po:adjective
 эпифеноменализм/K	po:noun
@@ -3740,7 +4717,6 @@
 эпоним/K	po:noun
 эпонимический/A	po:adjective
 эпробемид/K	po:noun
-ЭПС/C	po:abbr exp:экстрапирамидная симптоматика
 эргазиатрия/I	po:noun
 эргазиологический/A	po:adjective
 эргазиология/I	po:noun
@@ -3763,12 +4739,12 @@
 эротодромомания/I	po:noun
 эротоманический/A	po:adjective
 эсзопиклон/K	po:noun
-Эскироль/Z	st:Эскироль po:proper_noun
 эссенциальный/A	po:adjective
-ЭСТ/C	po:abbr exp:электросудорожная терапия
 эстезионевроз/K	po:noun
 эстезия/I	po:noun
+эстрогензаместительный/A	po:adjective
 эсциталопрам/K	po:noun
+этанолсодержащий/A	po:adjective
 этаперазин/K	po:noun
 этизолам/K	po:noun
 этилизм/K	po:noun
@@ -3785,6 +4761,7 @@
 этотоин/K	po:noun
 эупарейния/I	po:noun
 эфебофилия/I	po:noun
+эфедрон/K	po:noun
 эфемия/I	po:noun
 эфиромания/I	po:noun
 эффекторный/A	po:adjective
@@ -3806,16 +4783,14 @@
 эхоскопия/I	po:noun
 эхотимия/I	po:noun
 эхофразия/I	po:noun
-ЭхоЭГ/C	po:abbr exp:эхоэнцефалография
+эхоэнцефалограмма/I	po:noun
+эхоэнцефалограф/K	po:noun
 эхоэнцефалография/I	po:noun
 эхоэнцефалоскоп/K	po:noun
 эхоэнцефалоскопия/I	po:noun
-ЭЭГ/C	po:abbr exp:электроэнцефалография, электроэнцефалограмма
 эякуляция/I	po:noun
-Юнг/MC	st:Юнг po:proper_noun
-Якоб/MC	st:Якоб po:proper_noun
 яктация/I	po:noun
-Ясперс/MC	st:Ясперс po:proper_noun
 ятрогения/I	po:noun
+ятрогенный/A	po:adjective
 ятропатия/I	po:noun
 ятросомопатия/I	po:noun
